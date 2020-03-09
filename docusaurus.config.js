@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://benclmnt.github.io/study-in-nus',
-  baseUrl: '/',
+  title: 'Study in NUS',
+  tagline: 'ready?',
+  url: 'https://benclmnt.github.io',
+  baseUrl: '/study-in-nus/',
   favicon: 'img/favicon.ico',
   organizationName: 'benclmnt', // Usually your GitHub org/user name.
-  projectName: 'benclmnt.github.io/study-in-nus', // Usually your repo name.
+  projectName: 'study-in-nus', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -20,16 +20,15 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/benclmnt/study-in-nus',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Docs',
@@ -85,7 +84,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/benclmnt/study-in-nus/edit/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
