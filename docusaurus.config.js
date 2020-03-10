@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/housing',
+          to: 'docs/introduction',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -35,7 +35,7 @@ module.exports = {
           items: [
             {
               label: 'Introduction',
-              to: 'docs/housing',
+              to: 'docs/introduction',
             },
             {
               label: 'Style Guide',
@@ -74,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Study in NUS. Built with Docusaurus.`,
     },
   },
   presets: [

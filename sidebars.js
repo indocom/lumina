@@ -1,12 +1,13 @@
 module.exports = {
   docs: {
+    'Introduction': ['introduction'],
     'Before Departure': [
       'housing',
       'photo',
+      'registration1',
       'module-registration',
       'student-pass',
       'tg',
-      'registration1',
       'registration2',
       'qet',
       'checkup',
