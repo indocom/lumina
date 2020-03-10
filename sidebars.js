@@ -14,6 +14,8 @@ module.exports = {
     ],
     'After Arrival': [
       'getting-to-nus',
+      'checkin',
+      'senior-pickup',
     ],
     'Others': [
       'apps',
