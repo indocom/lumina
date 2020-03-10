@@ -20,7 +20,7 @@ This completes the initial process of the student pass application. ICA has arra
 
 You should bring the necessary documents/items as given in page 8 – 9 of the [Registration Guide](http://www.nus.edu.sg/registrar/info/info/Registration-Guide-for-Undergraduate-Students.pdf). 
 
-:::warning
+:::tip
 NUS regularly update the Registration Guide. Make sure you check the cover to check if the guide is for your semester.
 :::
 

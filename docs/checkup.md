@@ -3,7 +3,9 @@ id: checkup
 title: Checkup
 ---
 
-:warning: This page is not up to date
+:::warning
+This page contains broken links
+:::
 
 Period: June - 4 August 2017<br/>
 

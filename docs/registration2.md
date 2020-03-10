@@ -11,6 +11,10 @@ You have to complete the rest of the registration formalities at NUS University 
 
 For the specific time when you have to be at Auditorium 1, see page 3 of [Registration Guide](http://www.nus.edu.sg/registrar/info/info/Registration-Guide-for-Undergraduate-Students.pdf)
 
+:::tip
+NUS regularly update the Registration Guide. Make sure you check the cover to check if the guide is for your semester.
+:::
+
 Please remember to bring along your: 
 - Passport
 - Offer Letter

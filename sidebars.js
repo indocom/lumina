@@ -6,27 +6,40 @@ module.exports = {
       'photo',
       'registration1',
       'student-pass',
-      'registration2',
       'qet',
       'checkup',
-      'module-registration',
+    ],
+    'What To Prepare??':[
+      'registration2',
+      'document-verification',
+      'what-to-bring',
     ],
     'After Arrival': [
       'getting-to-nus',
       'checkin',
       'senior-pickup',
+      {
+        type: 'category',
+        label: 'Orientation',
+        items: [
+          'pinus-ori',
+          'hall-fac-ori',
+        ]
+      },
+      'module-registration',
     ],
     'Financial Issues': [
       'bank-accounts',
       'tg',
+      'financial-aid',
     ],
     'Others': [
       'apps',
       'cellular',
-      'what-to-bring',
       'singlish',
       'faq',
       'interview',
+      'things-to-know',
     ],
     'Contribution Guide': ['doc1', 'doc2', 'mdx'],
   },
