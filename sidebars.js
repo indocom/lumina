@@ -12,6 +12,9 @@ module.exports = {
       'qet',
       'checkup',
     ],
+    'After Arrival': [
+      'getting-to-nus',
+    ],
     'Others': [
       'apps',
       'bank-accounts',
