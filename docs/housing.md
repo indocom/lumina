@@ -68,8 +68,8 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
           <li>Workplace Readiness (WR1401)</li>
           <li>1 Senior Seminar Singapore Studies module (graded, focused on Singapore’s cases)</li>
         </ul>	
-        <b>Year 2</b> : Flexibility of selecting non-modular experiential learning options, through diverse Forums, to be completed across two semesters. 
-        Themes: respect, resilience and reflection.
+        <b>Year 2</b> : Flexibility of selecting non-modular experiential learning options, through diverse Forums, to be completed across two semesters. <br/>
+        <b>Themes</b>: respect, resilience and reflection.
       </td>
     </tr>
     <tr>

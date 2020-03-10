@@ -1,6 +1,6 @@
 module.exports = {
   docs: {
-    Introduction: [
+    'Before Departure': [
       'housing',
       'module-registration',
       'student-pass',
