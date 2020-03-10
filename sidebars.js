@@ -2,6 +2,7 @@ module.exports = {
   docs: {
     'Before Departure': [
       'housing',
+      'photo',
       'module-registration',
       'student-pass',
       'tg',
