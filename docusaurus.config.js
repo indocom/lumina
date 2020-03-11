@@ -8,16 +8,16 @@ module.exports = {
   projectName: 'study-in-nus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'StudyNUS',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'StudyNUS Logo',
         src: 'img/logo.svg',
       },
       links: [
         {
           to: 'docs/introduction',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'After Acceptance',
           position: 'left',
         },
         {
@@ -31,7 +31,7 @@ module.exports = {
       style: 'light',
       links: [
         {
-          title: 'Docs',
+          title: 'After Acceptance',
           items: [
             {
               label: 'Introduction',

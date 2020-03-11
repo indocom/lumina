@@ -1,5 +1,5 @@
 module.exports = {
-  docs: {
+  after: {
     'Introduction': ['introduction'],
     'Before Departure': [
       'housing',
@@ -41,6 +41,8 @@ module.exports = {
       'interview',
       'things-to-know',
     ],
-    'Contribution Guide': ['doc1', 'doc2', 'mdx'],
   },
+  before: {
+    'Contribution Guide': ['doc1', 'doc2', 'mdx'],
+  }
 };
