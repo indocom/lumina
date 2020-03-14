@@ -59,12 +59,12 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="Welcome to NUSGuide"
+      description="A simple, condensed guide to study in NUS by Perhimpunan Indonesia NUS">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero__subtitle">{"A simple, condensed guide to study in NUS by Perhimpunan Indonesia NUS"}</p>
           <div className={styles.buttons}>
             <Link
               className={classnames(

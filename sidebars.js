@@ -1,8 +1,7 @@
 module.exports = {
   before: {
     'Introduction': ['before/introduction'],
-    'After Acceptance': ['before/after-acceptance', 'before/interview'],
-    'Contribution Guide': ['before/doc1', 'before/doc2', 'before/mdx'],
+    'After Acceptance': ['before/after-acceptance'],
   },
   after: {
     'Introduction': ['after/introduction'],

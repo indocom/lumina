@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'NUS-Guide',
+  title: 'NUS Guide',
   tagline: 'Bring me to NUS',
   url: 'https://nus-guide.now.sh',
   baseUrl: '/',
@@ -37,28 +37,28 @@ module.exports = {
       style: 'light',
       links: [
         {
-          title: 'After Acceptance',
+          title: 'Before Acceptance',
           items: [
             {
               label: 'Introduction',
-              to: 'docs/introduction',
-            },
-            {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              to: 'docs/before/introduction',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'After Acceptance',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Introduction',
+              to: 'docs/after/introduction',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Dormitory',
+              to: 'docs/after/housing'
+            },
+            {
+              label: 'Financial Aid',
+              to: 'docs/after/financial-aid',
             },
           ],
         },
@@ -66,21 +66,21 @@ module.exports = {
           title: 'Social',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Facebook',
+              to: 'https://www.facebook.com/PerhimpunanIndonesiaNUS/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/pinusonline/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Github',
+              href: 'https://www.github.com/indocom/study-in-nus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Study in NUS. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Perhimpunan Indonesia NUS. Built with 💚 and Docusaurus.`,
     },
   },
   presets: [
@@ -91,6 +91,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/benclmnt/study-in-nus/edit/master',
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
