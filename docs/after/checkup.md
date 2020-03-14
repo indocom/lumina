@@ -3,7 +3,7 @@ id: checkup
 title: Checkup
 ---
 
-:::warning
+:::caution
 This page contains broken links
 :::
 

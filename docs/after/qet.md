@@ -3,7 +3,7 @@ id: qet
 title: QET
 ---
 
-:::warning
+:::caution
 This page contains broken links
 :::
 
