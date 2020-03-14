@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'Study in NUS',
-  tagline: 'ready?',
-  url: 'https://benclmnt.github.io',
-  baseUrl: '/study-in-nus/',
+  title: 'NUS-Guide',
+  tagline: 'Bring me to NUS',
+  url: 'https://nus-guide.now.sh',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'benclmnt', // Usually your GitHub org/user name.
+  organizationName: 'indocom', // Usually your GitHub org/user name.
   projectName: 'study-in-nus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'StudyNUS',
+      title: 'NUSGuide',
       logo: {
-        alt: 'StudyNUS Logo',
+        alt: 'NUSGuide Logo',
         src: 'img/logo.svg',
       },
       links: [
