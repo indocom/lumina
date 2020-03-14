@@ -1,48 +1,48 @@
 module.exports = {
+  before: {
+    'Introduction': ['before/introduction'],
+    'After Acceptance': ['before/after-acceptance'],
+  },
   after: {
-    'Introduction': ['introduction'],
+    'Introduction': ['after/introduction'],
     'Before Departure': [
-      'housing',
-      'photo',
-      'registration1',
-      'student-pass',
-      'qet',
-      'checkup',
+      'after/housing',
+      'after/photo',
+      'after/registration1',
+      'after/student-pass',
+      'after/qet',
+      'after/checkup',
     ],
     'What To Prepare??':[
-      'registration2',
-      'document-verification',
-      'what-to-bring',
+      'after/registration2',
+      'after/document-verification',
+      'after/what-to-bring',
     ],
     'After Arrival': [
-      'getting-to-nus',
-      'checkin',
-      'senior-pickup',
+      'after/getting-to-nus',
+      'after/checkin',
+      'after/senior-pickup',
       {
         type: 'category',
         label: 'Orientation',
         items: [
-          'pinus-ori',
-          'hall-fac-ori',
+          'after/pinus-ori',
+          'after/hall-fac-ori',
         ]
       },
-      'module-registration',
+      'after/module-registration',
     ],
     'Financial Issues': [
-      'bank-accounts',
-      'tg',
-      'financial-aid',
+      'after/bank-accounts',
+      'after/tg',
+      'after/financial-aid',
     ],
     'Others': [
-      'apps',
-      'cellular',
-      'singlish',
-      'faq',
-      'interview',
-      'things-to-know',
+      'after/apps',
+      'after/cellular',
+      'after/singlish',
+      'after/faq',
+      'after/things-to-know',
     ],
   },
-  before: {
-    'Contribution Guide': ['doc1', 'doc2', 'mdx'],
-  }
 };
