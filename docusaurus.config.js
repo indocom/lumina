@@ -15,8 +15,14 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/introduction',
-          activeBasePath: 'docs',
+          to: 'docs/before/introduction',
+          activeBasePath: 'docs/before',
+          label: 'Before Acceptance',
+          position: 'left',
+        },
+        {
+          to: 'docs/after/introduction',
+          activeBasePath: 'docs/after',
           label: 'After Acceptance',
           position: 'left',
         },
