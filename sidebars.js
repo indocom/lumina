@@ -6,12 +6,17 @@ module.exports = {
   after: {
     'Introduction': ['after/introduction'],
     'Before Departure': [
-      'after/housing',
       'after/photo',
       'after/registration1',
       'after/student-pass',
       'after/qet',
       'after/checkup',
+    ],
+    'Housing Options':[
+      'after/housing',
+      'after/residential-colleges',
+      'after/halls',
+      'after/pgp',
     ],
     'What To Prepare??':[
       'after/registration2',
