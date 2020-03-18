@@ -7,7 +7,7 @@ title: Prince George's Park
 
 ## [PGP House](http://nus.edu.sg/osa/pgphouse)
 
-### Why stay at PGP House?
+#### Why stay at PGP House?
 
 > :warning: under construction
 >
@@ -15,25 +15,25 @@ title: Prince George's Park
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
 
 ## PGP Residence
 
-### Why stay at PGP Residence?
+#### Why stay at PGP Residence?
 
 > :warning: under construction
 >
@@ -41,18 +41,18 @@ title: Prince George's Park
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
