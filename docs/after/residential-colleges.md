@@ -81,7 +81,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
     </tr>
     <tr>
       <th scope="row">Inter-RC Activities</th>
-      <td colspan="5">Inter-Collegiate Games (ICG), debate, parties(CNY, Halloween, Valentine's day)</td>
+      <td colspan="5">Inter-Collegiate Games (ICG), debate, parties (CNY, Halloween, Valentine's day)</td>
     </tr>
     <tr>
       <th scope="row">Dining Experience</th>
@@ -102,7 +102,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 ## [Cinammon College](http://www.usp.nus.edu.sg/)
 
-### Why stay at USP?
+#### Why stay at USP?
 
 > :warning: under construction
 >
@@ -111,19 +111,19 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - equivalent to a faculty
 - Offers opportunities for student-run initiatives, eg. research, independent study, community involvement, cultural immersion, youth expedition, exchange program, etc
 
-### People / Community
+#### People / Community
 - 180-190 students/batch accross 7 faculties.
 - Mostly Singaporeans
 - Other countries: Indonesia, Malaysia, Vietnam, India, Korea, not-so-many PRCs, exchange students.
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 - Sports
 - Arts
 - Environmental lovers
 - Photographers
 - Debate
 
-### Events
+#### Events
 - Confluence: presentation of best student writings
 - Master's Tea
 - Dean's Tea
@@ -132,7 +132,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Formal Dinner
 - Open Mic
 
-### Specific Amenities
+#### Specific Amenities
  Washing machine + dryer: $1/wash or dry (level 9, 17).
 - Coin exchanger machine $1 (level 9).
 - Pantry: water dispenser, induction cooker, fridge (level 5, 9, 13, 17, 21).
@@ -142,7 +142,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 ## [Tembusu College](http://www.tembusu.nus.edu.sg/)
 
-### Why stay at Tembusu?
+#### Why stay at Tembusu?
 
 > :warning: under construction
 >
@@ -151,25 +151,25 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Every week there will be discussion event, eg. Tembusu Forum with famous speakers.
 - Community outreach programmes: tMentors (teaching Sec3/4 children for O-Level), tKampung (trip to kampong in Singapore).
 
-### People / Community
+#### People / Community
 - Mostly Singaporeans.
 - Other countries: Indonesia, Korean, Malaysia, exchange students.
 - Keen on multi-cultural culture
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 - Sports
 - Music
 - tKitchen
 - tembuDoodles
 
-### Events
+#### Events
 - Tembusu Forum
 - Master's Tea
 - Fellow's Tea
 - Debate
 - Formal Dinner, etc.
 
-### Specific Amenities
+#### Specific Amenities
 - Washing machine + dryer: $1/wash or dry (level 9, 17).
 - Coin exchanger machine $1 (level 9).
 - Pantry: water dispenser, induction cooker, fridge (level 5, 9, 13, 17, 21).
@@ -182,7 +182,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 ## [College of Alice and Peter Tan (CAPT)](http://www.capt.nus.edu.sg/)
 
-### Why stay at CAPT?
+#### Why stay at CAPT?
 
 > :warning: under construction
 >
@@ -191,22 +191,22 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Special related modules: Hidden Communities, Community Leadership
 - For intellectual activities: CAPSTONE project (optional, see [website](http://www.capt.nus.edu.sg/))
 
-### People / Community
+#### People / Community
 - Mostly Singaporeans.
 - Other countries: Vietnam, China, Malaysia, exchange students, a number of Indo students.
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 - ACE (Active Community Engagement)
 - Cooking
 - Music
 
-### Events
+#### Events
 - Master's Tea
 - Formal Dinner
 - Community Engagement Festival
 - Open Mic, etc
 
-### Specific Amenities
+#### Specific Amenities
 - Washing machine + dryer: $1/wash or dry (level 5, 8, 11, 14, 17).
 - Coin exchanger machine $1 (level 8, 14).
 - Pantry: water dispenser, induction cooker, fridge (level 4, 7, 10, 13, 16).
@@ -219,7 +219,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 ## [Residential College 4 (RC4)](http://www.rc4.nus.edu.sg/)
 
-### Why stay at RC4?
+#### Why stay at RC4?
 
 > :warning: under construction
 >
@@ -229,11 +229,11 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - For intellectual activities: Cognitio
 - Community outreach programmes: CASA (teaching children near Clementi) Project ORCA
 
-### People / Community
+#### People / Community
 - Mostly Singaporeans.
 - Other countries: Indonesia, Vietnam, China, Malaysia, exchange students.
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 - R4D (Hiphop and contemporary dance)
 - Theatre
 - Sports
@@ -243,13 +243,13 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - RC4 Café
 - RC4 Drone Club, etc.
 
-### Events
+#### Events
 - Master's Tea
 - Formal Dinner
 - Slumber Party
 - RC4 Arts Night, etc.
 
-### Specific Amenities
+#### Specific Amenities
 - Washing machine + dryer: $1/wash or dry (level 5, 8, 11, 14, 17).
 - Coin exchanger machine $1 (level 8, 14).
 - Pantry: water dispenser, induction cooker, fridge (level 4, 7, 10, 13, 16).
@@ -260,27 +260,27 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 ## [Ridge View Residential College (RVRC)](http://www.rvrc.nus.edu.sg/overview.html)
 
-### Why stay at RVRC?
+#### Why stay at RVRC?
 
 > :warning: under construction
 >
 > Ask some RVRC peeps to fill in
 
-### People / Community
+#### People / Community
 - Mostly Singaporeans.
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 - Industry Networking
 - Co-planned activities: camp, nature trails, heritage walks, community service projects, dialogues.
 - Student-led activities
 - Value-centric community through experiential learning.
 
-### Events
+#### Events
 - Industry visits
 - Formal Dinner
 - Talks
 
-### Specific Amenities
+#### Specific Amenities
 - 2 Laundry rooms
 - Student Lounges
 - Study Rooms
