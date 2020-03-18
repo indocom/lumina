@@ -7,7 +7,7 @@ title: Halls of Residence
 
 ## [Raffles Hall](http://nus.edu.sg/osa/raffleshall)
 
-### Why stay at Raffles Hall?
+#### Why stay at Raffles Hall?
 
 > :warning: under construction
 >
@@ -15,25 +15,25 @@ title: Halls of Residence
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
 
 ## [Temasek Hall](http://nus.edu.sg/osa/temasekhall)
 
-### Why stay at Temasek Hall?
+#### Why stay at Temasek Hall?
 
 > :warning: under construction
 >
@@ -41,25 +41,25 @@ title: Halls of Residence
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
 
 ## [Eusoff Hall](http://nus.edu.sg/osa/eusoffhall)
 
-### Why stay at Eusoff Hall?
+#### Why stay at Eusoff Hall?
 
 > :warning: under construction
 >
@@ -67,25 +67,25 @@ title: Halls of Residence
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
 
 ## [Kent Ridge Hall](http://nus.edu.sg/osa/kentridgehall)
 
-### Why stay at Kent Ridge Hall?
+#### Why stay at Kent Ridge Hall?
 
 > :warning: under construction
 >
@@ -93,25 +93,25 @@ title: Halls of Residence
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
 
 ## [Sheares Hall](http://nus.edu.sg/osa/sheareshall)
 
-### Why stay at Sheares Hall?
+#### Why stay at Sheares Hall?
 
 > :warning: under construction
 >
@@ -119,25 +119,25 @@ title: Halls of Residence
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet
 
 ## [King Edward VII Hall](http://nus.edu.sg/osa/keviihall)
 
-### Why stay at King Edward VII Hall?
+#### Why stay at King Edward VII Hall?
 
 > :warning: under construction
 >
@@ -145,18 +145,18 @@ title: Halls of Residence
 
 - Lorem ipsum dolor sit amet
 
-### People / Community
+#### People / Community
 
 - Lorem ipsum dolor sit amet
 
-### CCA/Interest Groups (IG)
+#### CCA/Interest Groups (IG)
 
 - Lorem ipsum dolor sit amet
 
-### Events
+#### Events
 
 - Lorem ipsum dolor sit amet
 
-### Specific Amenities
+#### Specific Amenities
 
 - Lorem ipsum dolor sit amet

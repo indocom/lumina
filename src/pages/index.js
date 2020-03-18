@@ -60,12 +60,13 @@ function Home() {
   return (
     <Layout
       title="Welcome to NUSGuide"
-      description="A simple, condensed guide to study in NUS by Perhimpunan Indonesia NUS">
+      description="A simple, condensed, unofficial, insider guide to NUS">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{"A simple, condensed guide to study in NUS by Perhimpunan Indonesia NUS"}</p>
-          <div className={styles.buttons}>
+          <p className="hero__subtitle" style={{paddingTop: ".5em", lineHeight: .5}}>{"Byte-sized, unofficial, insider guide to NUS"}</p>
+          <p style={{fontSize: "1rem", lineHeight: 0.5}}>{"Delivered to you by Perhimpunan Indonesia NUS"}</p>
+          <div className={styles.buttons} style={{paddingTop: ".8em"}}>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
