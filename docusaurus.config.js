@@ -99,4 +99,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: ['@docusaurus/plugin-ideal-image'],
 };
