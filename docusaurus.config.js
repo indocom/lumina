@@ -27,8 +27,8 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/benclmnt/study-in-nus',
-          label: 'GitHub',
+          to: 'docs/contributors',
+          label: 'Contributors',
           position: 'right',
         },
       ],
