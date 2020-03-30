@@ -11,9 +11,12 @@ We want to say **THANKS** to our amazing contributors!
 - Sheares Hall: Felita Eleonora
 - Temasek Hall: Dipasukha Edbert, Felix Halim
 - Raffles Hall : Jeff Gana
+- RC4 : Kathy Ijaya
+- CAPT: Owen Wijaya
+- 
 <!-- - Ridge View River College : Jessie Ganadhi -->
 
 
-and to all contributing PINUS Committee members: 
+and to all coordinating PINUS Committee members: 
 
-Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Nadhira Salsabila
+Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila
