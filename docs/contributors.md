@@ -11,12 +11,13 @@ We want to say **THANKS** to our amazing contributors!
 - Sheares Hall: Felita Eleonora
 - Temasek Hall: Dipasukha Edbert, Felix Halim
 - Raffles Hall : Jeff Gana
+- CAPT: Owen Wijaya, Raymond Fendy
 - RC4 : Kathy Ijaya
-- CAPT: Owen Wijaya
-- Tembusu: Iona Tanan
 - RVRC : Jessie Ganadhi
+- Tembusu: Iona Tanan
+- USP/Cinnamon College: Aldrich
 
 
 and to all coordinating PINUS Committee members: 
 
-Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila
+Aldrich, Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila
