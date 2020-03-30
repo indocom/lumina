@@ -3,9 +3,7 @@ id: residential-colleges
 title: Residential Colleges
 ---
 
-:warning: This page is still under development
-
-Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
+Residential Colleges are a great way to stay in your first 2 years in NUS. Find out why below!
 
 ### Why residential colleges?
 
@@ -14,14 +12,15 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - RC clubs/activities (equals to hall-based activities but with a more humane schedule) and inter-RC activities.
 - Exclusive modules to replace University requirement modules, as part of USP/UTCP.
 - For students under USP, they will receive 2 degrees from their own faculties and USP upon graduation.
+- 2 years of stay guaranteed with no commitments needed
 
 ### Note of caution
 
 :::caution
+- UTown modules heavily emphasize on writing essays, might be challenging for students who are not used to academic writing
 - Modules are more scientific based, which may not be interesting to some people
 - More expensive because of the location (UTown) and newer buildings
 - Air conditioner fee is not included in hostel fee
-- UTown modules heavily emphasize on writing essays, might be challenging for students who are not used to academic writing
 :::
 
 ### General comparison
@@ -152,12 +151,21 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 #### Why stay at USP?
 
-> :warning: under construction
->
-> Ask some USP peeps to fill in
+- A unique interdisciplinary program for those willing to challenge themselves intellectually
+- A community of curious and diverse individuals open to talk about any subjects
 
-- equivalent to a faculty
-- Offers opportunities for student-run initiatives, eg. research, independent study, community involvement, cultural immersion, youth expedition, exchange program, etc
+_NOTE: USP is not a particularly CAP-friendly programmes, it is well known to drag down students' grades_
+
+#### Location
+NUS University Town (Beside Tembusu College and Education Resource Centre)
+ 
+- 5 Minutes Walk from New Town Secondary School Bus Stop, 7 Minutes Walk from Aft Dover Road Bus Stop, 8 Minutes Walk from Aft Clementi Ave 1
+- 7 Minutes Walk from NUS University Town Bus Stop 
+
+#### Culture / Focus
+Cinnamon’s College purpose is “To shape independent, adaptable thinkers and doers who will make an impact in the world”. With “Curious, Critical, Courageous, Engaged” as the 4 core values of the college, students enrolled in the University Scholars’ Programme in Cinnamon College will be pushed to their intellectual boundaries through the various interdisciplinary modules.
+
+More info on [college life](http://www.usp.nus.edu.sg/life-at-usp/overview/) or [curriculum](http://www.usp.nus.edu.sg/curriculum/overview/)!
 
 #### People / Community
 - 180-190 students/batch accross 7 faculties.
@@ -165,11 +173,13 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Other countries: Indonesia, Malaysia, Vietnam, India, Korea, not-so-many PRCs, exchange students.
 
 #### CCA/Interest Groups (IG)
-- Sports
-- Arts
-- Environmental lovers
-- Photographers
-- Debate
+- University Scholars Club 
+- USP Polymaths : an open platform featuring a series of 26.667 minutes Pecha Kucha talks on diverse topics
+- Gender Collective : the group seeks to draw together people of all genders and sexual identities, for discussion about gender and sexuality and how they intersect with other modes of living, learning in a safe space
+- USProductions : a youth-led theatre group in University Scholars Programme (USP), NUS that seeks to produce meaningful and entertaining work, reaching out to audiences on campus and beyond.
+- USPike - USP very own volleyball team that holds trainings in conjunction with other colleges in UTown
+- Live Core : For anyone who likes music or likes playing music!
+- The Sessions : a platform for individuals in USP to host discussions with distinguished speakers, exchange ideas and opinions about issues that they were concerned with/interested in.
 
 #### Events
 - Confluence: presentation of best student writings
@@ -179,6 +189,26 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Random Walks in Science
 - Formal Dinner
 - Open Mic
+- The Sessions Talks
+- Formal Dinner
+- Orientation Week
+
+#### Specific Amenities
+- USP Reading Room 
+- The Writing Centre (Helps students with essay assignments)
+- The QR Centre (Helps students with Quantitative Reasoning assignments)
+- The ChatterBox (Study Lounge with USProvisions/Snack Corner)
+
+#### Houses
+Every student staying at Cinnamon will be allocated to a house. While other residential colleges divide students into houses based on floor number, Cinnamon does not work this way, hence, you will make friends with people from different floors:
+
+1. Ianthe
+1. Triton
+1. Saren
+1. Ankaa
+1. Nocturna 
+1. Ursaia
+
 
 ## [Tembusu College](http://www.tembusu.nus.edu.sg/)
 
@@ -244,12 +274,10 @@ _Active Citizenship and Community Engagement_
 
 #### Why stay at CAPT?
 
-> :warning: under construction
->
-> Ask some CAPT peeps to fill in
+- More community-based and community engagement activities, which provides opportunities to explore hidden underdeveloped areas (a major issue in nowadays world)
+- Has the least Indonesian students, meaning more opportunity to blend with Singaporeans and other ethnics
+- More practical modules, because there are a lot of visits
 
-- Special related modules: Hidden Communities, Community Leadership
-- For intellectual activities: CAPSTONE project (optional, see [website](http://www.capt.nus.edu.sg/))
 
 #### Location
 NUS University Town (beside RC4 and across Yale-NUS College)

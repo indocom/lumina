@@ -13,6 +13,7 @@ module.exports = {
         alt: 'NUSGuide Logo',
         src: 'img/logo.png',
       },
+      hideOnScroll: true,
       links: [
         {
           to: 'docs/before/introduction',
