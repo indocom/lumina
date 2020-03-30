@@ -13,8 +13,8 @@ We want to say **THANKS** to our amazing contributors!
 - Raffles Hall : Jeff Gana
 - RC4 : Kathy Ijaya
 - CAPT: Owen Wijaya
-- 
-<!-- - Ridge View River College : Jessie Ganadhi -->
+- Tembusu: Iona Tanan
+- RVRC : Jessie Ganadhi
 
 
 and to all coordinating PINUS Committee members: 

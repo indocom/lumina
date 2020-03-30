@@ -109,22 +109,44 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
         </ul>
       </td>
     </tr>
+    <tr>
+      <th scope="row">Amenities</th>
+      <td colspan="4">
+        <ul>
+          <li>Seminar rooms (usually for lessons, can be booked)</li>
+          <li>Reading room (can be booked)</li>
+          <li>Games room (can be booked)</li>
+          <li>Music room (can be booked)</li>
+          <li>Multi-purpose sports hall (can be booked)</li>
+          <li>Theme rooms (usually for CCAs, can be booked)</li>
+          <li>Lounge at every level</li>
+          <li>Pantry : water dispenser, induction cooker, fridge at every house (4th, 7th, 10th, 13th, 16th floor)</li>
+          <li>Laundry at every house (5th, 8th, 11th, 14th, 17th floor) for CAPT and RC4, 2 laundry rooms (9th and 17th floor) for Tembusu. $1/wash or dry</li>
+          <li>Study room (6th and 12th floor)</li>
+          <li>Dining Hall (Tembusu shares with Cinnamon College, RC4 shares with CAPT)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Master’s Lounge</li>
+          <li>Student Lounge</li>
+          <li>Dining Hall</li>
+          <li>Interest Group Room</li>
+          <li>Multi-purpose Room</li>
+          <li>Atrium</li>
+          <li>Smart Classroom</li>
+          <li>Seminar Rooms</li>
+          <li>Meeting Rooms</li>
+          <li>Recording Room</li>
+          <li>Flex-Theme Room</li>
+          <li>Music Rooms</li>
+          <li>Library</li>
+          <li>Multimedia Lab</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
-</table>
-
-#### Amenities
-1. Seminar rooms (usually for lessons, can be booked)
-1. Reading room (can be booked)
-1. Games room (can be booked)
-1. Music room (can be booked)
-1. Multi-purpose sports hall (can be booked)
-1. Common Lounge (with snack corner, printer + photocopy service, and  piano)
-2. Theme rooms (usually for CCAs, can be booked)
-1. Lounge at every level
-1. Pantry : water dispenser, induction cooker, fridge at every house (4th, 7th, 10th, 13th, 16th floor)
-1. Laundry at every house (5th, 8th, 11th, 14th, 17th floor) for CAPT and RC4, 2 laundry rooms (9th and 17th floor) for Tembusu. $1/wash or dry
-1. Study room (6th and 12th floor)
-1. Dining Hall (Tembusu shares with Cinnamon College, RC4 shares with CAPT)
+</table> 
 
 ## [Cinammon College](http://www.usp.nus.edu.sg/)
 
@@ -169,6 +191,11 @@ _Home of Possibilities_
 - A lot of opportunities to learn and grow
 
 _NOTE: Tembusu residents often brag that their residential college is the hardest to get into_
+
+#### Location
+- 8-10 minutes walk to University Town internal bus stop
+- 8-10 minutes walk to the nearest external bus stop
+
 
 #### Culture / Focus
 Tembusu College’s motto The Home of Possibilities, means we value the development of each individual according to her or his own path through life. At the same time we are a learning community, which seeks to give students an intense experience in a nurturing environment. 
@@ -259,7 +286,7 @@ Know more about [CAPT culture](https://capt.nus.edu.sg/the-capt-experience) and 
 - Floor Eventse
 - Inter College Games (ICG)
 - Inter Neighbourhood Games (ING)
-- Inter Neighbourhood Shiled (INS)
+- Inter Neighbourhood Shield (INS)
 
 #### Houses
 Every student staying at CAPT will be allocated to a house, which will also determine the floor the student will stay at. Houses in CAPT are:
@@ -327,12 +354,28 @@ Every student staying at RC4 will be allocated to a house, which will also deter
 
 #### Why stay at RVRC?
 
-> :warning: under construction
->
-> Ask some RVRC peeps to fill in
+1. Convenient/ strategic place i can get to science by 5 min walk
+7/11 and YIH right beside RVRC!
+1. Chill sessions at pitstop (nintendo switch + arts and crafts)
+1. 1 RVRC module WR1401 is super fun (kin ball, tchouk ball, chill teachers, dragon boating outing)
+1. Even though some rooms do not have aircon, the trees and naturey sceneries make the rooms cool
+1. Many lounges and places to chill and play and watch movies together
+
+
+#### Location 
+See the [table](#general-comparison). It is near to the University Health Centre (Clinic), University Sports Centre, and Exam Halls (_This will come in handy since you don't need to catch a bus to exam_)
+
+#### Culture / Focus
+RVRC focuses on sustainability and workplace readiness, empowering students to “explore and engage with complex real world challenges.”
+
+“The RVRC experience is aimed at cultivating students who are intellectually inquisitive, action-oriented, resilient, and future-ready” (RVRC Mission and Values)
 
 #### People / Community
-- Mostly Singaporeans.
+- Welcoming singaporeans, bonded indo community
+- Weekly card game/board game sessions
+- Study together = less stress
+- A lot of low commitment IGs to join (sports, arts, clubs)
+- A lot of leadership opportunities available (CSC, House Committee, IG Heads)
 
 #### CCA/Interest Groups (IG)
 - Industry Networking
@@ -344,18 +387,3 @@ Every student staying at RC4 will be allocated to a house, which will also deter
 - Industry visits
 - Formal Dinner
 - Talks
-
-#### Specific Amenities
-- 2 Laundry rooms
-- Student Lounges
-- Study Rooms
-- Seminar Rooms
-- Library
-- Multimedia Lab
-- Recording Room
-- Multipurpose room
-- Theme Room
-- Dining Hall
-- Music Room
-- Outdoor Learning & Meeting Spaces
-- BBQ Area
