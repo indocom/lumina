@@ -112,6 +112,20 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
   </tbody>
 </table>
 
+#### Amenities
+1. Seminar rooms (usually for lessons, can be booked)
+1. Reading room (can be booked)
+1. Games room (can be booked)
+1. Music room (can be booked)
+1. Multi-purpose sports hall (can be booked)
+1. Common Lounge (with snack corner, printer + photocopy service, and  piano)
+2. Theme rooms (usually for CCAs, can be booked)
+1. Lounge at every level
+1. Pantry : water dispenser, induction cooker, fridge at every house (4th, 7th, 10th, 13th, 16th floor)
+1. Laundry at every house (5th, 8th, 11th, 14th, 17th floor) for CAPT and RC4, 2 laundry rooms (9th and 17th floor) for Tembusu. $1/wash or dry
+1. Study room (6th and 12th floor)
+1. Dining Hall (Tembusu shares with Cinnamon College, RC4 shares with CAPT)
+
 ## [Cinammon College](http://www.usp.nus.edu.sg/)
 
 #### Why stay at USP?
@@ -144,24 +158,22 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Formal Dinner
 - Open Mic
 
-#### Specific Amenities
- Washing machine + dryer: $1/wash or dry (level 9, 17).
-- Coin exchanger machine $1 (level 9).
-- Pantry: water dispenser, induction cooker, fridge (level 5, 9, 13, 17, 21).
-- Lounge every level (with TV on level 5, 9, 13, 17, 21), common lounge (Chatterbox) at the ground level.
-- Learn Lobe: Theme rooms/Multimedia Lab/seminar rooms for study or classes.
-- Multi Purpose Hall.
-
 ## [Tembusu College](http://www.tembusu.nus.edu.sg/)
+
+_Home of Possibilities_
 
 #### Why stay at Tembusu?
 
-> :warning: under construction
->
-> Ask some Tembusu peeps to fill in
+- Modules are more philosophical, which may be interesting to some students
+- Diverse and inclusive community
+- A lot of opportunities to learn and grow
 
-- Every week there will be discussion event, eg. Tembusu Forum with famous speakers.
-- Community outreach programmes: tMentors (teaching Sec3/4 children for O-Level), tKampung (trip to kampong in Singapore).
+_NOTE: Tembusu residents often brag that their residential college is the hardest to get into_
+
+#### Culture / Focus
+Tembusu College’s motto The Home of Possibilities, means we value the development of each individual according to her or his own path through life. At the same time we are a learning community, which seeks to give students an intense experience in a nurturing environment. 
+
+Know more about [Tembusu culture](https://tembusu.nus.edu.sg/college-life) and [modules offered](https://tembusu.nus.edu.sg/education)!
 
 #### People / Community
 - Mostly Singaporeans.
@@ -169,30 +181,39 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Keen on multi-cultural culture
 
 #### CCA/Interest Groups (IG)
-- Sports
-- Music
-- tKitchen
-- tembuDoodles
+- **Arts**: Tembusu Arts Council (performing arts), tArt (painting),Curios Magazine, Tembusu Debate Society, Filmbusu, Slate (theatrical production), tGuitar, Transposition (instruments playing), Treblemakers (choir), T.C.W. (dance), Ukulele Beats, tWord (poetry and creative writing), Yarn & Doodles (craft)
+- **Sports**: Tembusu Barefoots (frisbee), tBalls (dodgeball), Tembusu Bladers (rollerblading), Bolt & Pace (running), tBoxing, tCali (calisthenics), Captain's Ball, Floorball, Netball, Rock Climbing, Men Soccer, Women Soccer, Tembusu Shuttles (badminton), tSquash, Stretch & Tone (pilates), Table Tennis, Tennis, Tchoukball, Touch Rugby, Volleyball, T-OWLS: Tembusu On Wheels (Lepak & Supper) (night cycling)
+- **Community**: Adestes Fideles (Catholic community), Tembusu Christian Fellowship, T.A.L.L (Tembusu Animal Lovers’ League), Green T Movement (sustainability club), tFreedom (LGBTQIA+ club), Treehouse - Tembusu’s Online Student Journal, etc
+- **Lifestyle**: tCoders (programming), Tembusu Coffeehouse, IG2 (strategic board games: mahjong, chess, contract bridge, etc.), tKaraoke, Polity (public policy and current affairs), tRecess (relaxation), Strategos (financial knowledge), Tembusu Tabletops (board and card games), Urban Gardeners, tStudios (photography, videography, design), etc
+
+More info about [interest groups](https://tembusu.nus.edu.sg/college-life/interest-groups) here!
 
 #### Events
 - Tembusu Forum
 - Master's Tea
 - Fellow's Tea
-- Debate
-- Formal Dinner, etc.
+- Student's Tea
+- House Events
+- Floor Events
+- Orientation Week
+- Formal Dinner,
+- Inter College Games (ICG)
+- Tembusu House Games (THG)
 
-#### Specific Amenities
-- Washing machine + dryer: $1/wash or dry (level 9, 17).
-- Coin exchanger machine $1 (level 9).
-- Pantry: water dispenser, induction cooker, fridge (level 5, 9, 13, 17, 21).
-- Lounge every level (with TV on level 5, 9, 13, 17, 21), common lounge at the ground level.
-- Learn Lobe: seminar rooms for study or classes.
-- Multi Purpose Hall
-- Games room (X-box 360, Kinect, Pool table, Foosball, Air hockey, Board games, etc)
-- The Workshop (baking and cooking).
-- The Abbey (music room).
+#### Houses
+
+Every student staying at Tembusu will be allocated to a house, which will also determine the floor the student will stay at. Houses in Tembusu are:
+
+1. Shan (4th-7th floor)
+1. Ora (8th-11th floor)
+1. Gaja (12th-14th floor)
+1. Tancho (15th-18th floor)
+1. Ponya (19th-21st floor)
+
 
 ## [College of Alice and Peter Tan (CAPT)](http://www.capt.nus.edu.sg/)
+
+_Active Citizenship and Community Engagement_
 
 #### Why stay at CAPT?
 
@@ -203,33 +224,56 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 - Special related modules: Hidden Communities, Community Leadership
 - For intellectual activities: CAPSTONE project (optional, see [website](http://www.capt.nus.edu.sg/))
 
+#### Location
+NUS University Town (beside RC4 and across Yale-NUS College)
+- 10-15 minutes walk to UTown internal bus stop
+- 5-7 minutes walk to nearest external bus stop
+
+#### Culture / Focus
+The College of Alice & Peter Tan is distinguished by its vision of helping students engage with the community within and outside of NUS, and encouraging them to apply their knowledge to address issues that are important to society. The College consciously weaves this theme of active citizenship and community engagement through its curriculum and other aspects of the student experience.
+
+Know more about [CAPT culture](https://capt.nus.edu.sg/the-capt-experience) and [modules offered](https://capt.nus.edu.sg/the-capt-experience/learning-capt/curriculum)!
+
 #### People / Community
 - Mostly Singaporeans.
 - Other countries: Vietnam, China, Malaysia, exchange students, a number of Indo students.
 
 #### CCA/Interest Groups (IG)
-- ACE (Active Community Engagement)
+- Sports
+- Capital(business induced)
+- Capslock(Coding)
+- CAPT Coffee
 - Cooking
-- Music
+- CAPT Support
+- JamCity & Guitarpella(Band)
+- ACE (Active Community Engagement)
+- Kindle(Helping kids)
+- CSC
 
 #### Events
 - Master's Tea
 - Formal Dinner
 - Community Engagement Festival
 - Open Mic, etc
+- House Events
+- Floor Eventse
+- Inter College Games (ICG)
+- Inter Neighbourhood Games (ING)
+- Inter Neighbourhood Shiled (INS)
 
-#### Specific Amenities
-- Washing machine + dryer: $1/wash or dry (level 5, 8, 11, 14, 17).
-- Coin exchanger machine $1 (level 8, 14).
-- Pantry: water dispenser, induction cooker, fridge (level 4, 7, 10, 13, 16).
-- Lounge every level, common lounge (Flying Seed) at the ground level.
-- Mini study rooms (level 6, 12).
-- Multi Purpose Hall
-- Bike Storage room, games room (X-box 360, Kinect, Pool table, Foosball, Air hockey, Board games, etc)
-- The Workshop (baking and cooking).
-- Blackbox (music room and drumset).
+#### Houses
+Every student staying at CAPT will be allocated to a house, which will also determine the floor the student will stay at. Houses in CAPT are:
+
+1. Roc (3rd-5th floor)
+1. Dragon (6th-8th floor)
+1. Garuda (9th-11th floor)
+1. Phoenix (12th-14th floor)
+1. Tulpar (15th-17th floor)
+
 
 ## [Residential College 4 (RC4)](http://www.rc4.nus.edu.sg/)
+
+_Systems Thinking_
 
 #### Why stay at RC4?
 
@@ -277,19 +321,6 @@ Every student staying at RC4 will be allocated to a house, which will also deter
 1. Ursa (9th-11th floor)
 1. Leo (12th-14th floor)
 1. Draco (15th-17th floor)
-
-#### Specific Amenities
-1. Seminar rooms (usually for lessons, can be booked)
-1. Reading room (can be booked)
-1. Games room (can be booked)
-1. Music room (can be booked)
-1. Multi-purpose sports hall (can be booked)
-1. Common Lounge (with snack corner, printer + photocopy service, and  piano)
-2. Theme rooms (usually for CCAs, can be booked)
-1. Lounge at every level
-1. Pantry at every house (4th, 7th, 10th, 13th, 16th floor)
-1. Laundry at every house (5th, 8th, 11th, 14th, 17th floor)
-1. Study room (6th and 12th floor)
 
 
 ## [Ridge View Residential College (RVRC)](http://www.rvrc.nus.edu.sg/overview.html)
