@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Bring me to NUS',
   url: 'https://nus-guide.now.sh',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'indocom', // Usually your GitHub org/user name.
   projectName: 'study-in-nus', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'NUSGuide',
       logo: {
         alt: 'NUSGuide Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       links: [
         {
