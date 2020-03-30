@@ -7,12 +7,24 @@ title: Residential Colleges
 
 Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
+### Why residential colleges?
+
 - Modern hostels to stay
 - Great variety and quality of food eg. Malay, Chinese, Western, Indian, Noodle, Yoghurt (although the rates are pricier)
 - RC clubs/activities (equals to hall-based activities but with a more humane schedule) and inter-RC activities.
 - Exclusive modules to replace University requirement modules, as part of USP/UTCP.
 - For students under USP, they will receive 2 degrees from their own faculties and USP upon graduation.
 
+### Note of caution
+
+:::caution
+- Modules are more scientific based, which may not be interesting to some people
+- More expensive because of the location (UTown) and newer buildings
+- Air conditioner fee is not included in hostel fee
+- UTown modules heavily emphasize on writing essays, might be challenging for students who are not used to academic writing
+:::
+
+### General comparison
 <table>
   <thead>
     <tr>
@@ -221,42 +233,64 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Why?
 
 #### Why stay at RC4?
 
-> :warning: under construction
->
-> Ask some RC4 peeps to fill in
+- All bedrooms are provided with aircons!
+- Easier to get in as compared to other RCs in UTown (CAPT or Tembusu)
+- Nearest to external bus stop to Clementi and other locations
+- Will learn Vensim, which can be very useful for systems learning and thinking
 
-- Might be heavy for non-engineering/science students
-- For intellectual activities: Cognitio
-- Community outreach programmes: CASA (teaching children near Clementi) Project ORCA
+#### Location
+University Town (farthest from UTown internal bus stop, but nearest to external bus stop)
+
+#### Culture/Focus
+Systems Thinking and Systems Dynamic Modelling. Modules in RC4 teach about designing model using a software called Vensim, which focuses on loop diagrams to predict an event or see the process.
+
+Know more about [RC4 culture](https://rc4.nus.edu.sg/about/rc4-experience/) and [modules offered](https://rc4.nus.edu.sg/academic-programme/)!
 
 #### People / Community
 - Mostly Singaporeans.
 - Other countries: Indonesia, Vietnam, China, Malaysia, exchange students.
 
 #### CCA/Interest Groups (IG)
-- R4D (Hiphop and contemporary dance)
-- Theatre
-- Sports
-- RC4lunteers
-- Baking
-- RC4me (Music)
-- RC4 Café
-- RC4 Drone Club, etc.
+- **Arts**: R4D(Dance), RC4ME (Band), RC4Theatre
+- **Community Service**: CASA (Focuses on educating poor children in Clementi), RC4lunteers (Various target groups)
+- **Lifestyle**: OrcaBakes, Orc4Plays (Various board and card games), RC4Coffee, RC4fe, RC4Moda (Fashion), RC4rtsy (Craft), RC4tography, Strategic Games (Bridge & Mahjong)
+- **Sports & Adventure**: ARC4NA (Online games), Badminton, Captain's Ball,  Climbing, Dodgeball, Floorball, Soccer, Squash, Table Tennis, Tchoukball, Tennis, Touch Rugby, Ultimate Frisbee, Volleyball, WilderNUS (Outdoor adrenaline activities)
+- **Pods**: RC4Space, RC4Wellness
+
+Satisfy your curiosity here: [Interest Groups](https://rc4.nus.edu.sg/rc4life/interest-groups/), [Cognitio](https://rc4.nus.edu.sg/rc4life/cognitio/)
 
 #### Events
 - Master's Tea
 - Formal Dinner
 - Slumber Party
-- RC4 Arts Night, etc.
+- RC4 Arts Night
+- House Events
+- Floor Events
+- Inter College Games (ICG)
+- Inter House Games (IHG)
+
+#### Houses
+Every student staying at RC4 will be allocated to a house, which will also determine the floor the student will stay at. Houses in RC4 are:
+
+1. Aquila (3rd-5th floor)
+1. Noctua (6th-8th floor)
+1. Ursa (9th-11th floor)
+1. Leo (12th-14th floor)
+1. Draco (15th-17th floor)
 
 #### Specific Amenities
-- Washing machine + dryer: $1/wash or dry (level 5, 8, 11, 14, 17).
-- Coin exchanger machine $1 (level 8, 14).
-- Pantry: water dispenser, induction cooker, fridge (level 4, 7, 10, 13, 16).
-- Lounge every level, common lounge at the ground level.
-- Multi Purpose Hall
-- Games room
-- Cafe
+1. Seminar rooms (usually for lessons, can be booked)
+1. Reading room (can be booked)
+1. Games room (can be booked)
+1. Music room (can be booked)
+1. Multi-purpose sports hall (can be booked)
+1. Common Lounge (with snack corner, printer + photocopy service, and  piano)
+2. Theme rooms (usually for CCAs, can be booked)
+1. Lounge at every level
+1. Pantry at every house (4th, 7th, 10th, 13th, 16th floor)
+1. Laundry at every house (5th, 8th, 11th, 14th, 17th floor)
+1. Study room (6th and 12th floor)
+
 
 ## [Ridge View Residential College (RVRC)](http://www.rvrc.nus.edu.sg/overview.html)
 
