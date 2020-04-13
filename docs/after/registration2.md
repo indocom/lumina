@@ -3,7 +3,7 @@ id: registration2
 title: Registration Part 2
 ---
 
-:warning: This page might not be updated
+:warning: This page might not be updated. We will update it soon!
 
 Date: 31 July 2017 (AFTER ARRIVAL)<br/>
 

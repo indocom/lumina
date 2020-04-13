@@ -2,7 +2,7 @@
 id: things-to-know
 title: Things To Know
 ---
-:warning: This page is not uptodate
+:warning: This page is not uptodate. We will update it soon!
 
 ### Purchasing Laptops, Electronics, Gadgets
 

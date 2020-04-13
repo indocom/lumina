@@ -1,8 +1,8 @@
 module.exports = {
-  before: {
-    'Introduction': ['before/introduction'],
-    'After Acceptance': ['before/after-acceptance'],
-  },
+  // before: {
+  //   'Introduction': ['before/introduction'],
+  //   'After Acceptance': ['before/after-acceptance'],
+  // },
   after: {
     'Introduction': ['after/introduction'],
     'Housing Options':[

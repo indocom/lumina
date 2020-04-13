@@ -67,14 +67,14 @@ function Home() {
           <p className="hero__subtitle" style={{paddingTop: ".5em", lineHeight: 1}}>{"Byte-sized, unofficial, insider guide to NUS"}</p>
           <p style={{fontSize: "1rem", lineHeight: 1}}>{"Delivered to you by Perhimpunan Indonesia NUS"}</p>
           <div className={styles.buttons} style={{paddingTop: ".8em"}}>
-            <Link
+            {/* <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/before/introduction')}>
               Get Started
-            </Link>
+            </Link> */}
             <div style={{width: 10}}></div>
             <Link
               className={classnames(
@@ -82,7 +82,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/after/introduction')}>
-              Accepted?
+              Start here!
             </Link>
           </div>
         </div>
