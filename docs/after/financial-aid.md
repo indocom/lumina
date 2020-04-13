@@ -3,7 +3,7 @@ id: financial-aid
 title: Financial Aid
 ---
 :::caution
-This page contains broken links and might not be updated
+This page contains broken links and might not be updated. We will update it soon!
 :::
 
 In this section, we will be touching on the 3 loan schemes usually sought after by Indonesian Students. For more detailed info, you can check [here](http://www.nus.edu.sg/oam/financialaid.html).

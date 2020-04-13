@@ -3,7 +3,7 @@ id: student-pass
 title: Student Pass
 ---
 
-:warning: This page is not up to date
+:warning: This page is not up to date. We will update it soon!
 
 NUS would have already submitted an application for your student's pass for you. Once NUS have informed you of your SOLAR Application number, all you need to do is login to ICA's SOLAR system to wrap up the process.
 

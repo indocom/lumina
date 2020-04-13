@@ -15,12 +15,12 @@ module.exports = {
       },
       hideOnScroll: true,
       links: [
-        {
-          to: 'docs/before/introduction',
-          activeBasePath: 'docs/before',
-          label: 'Before Acceptance',
-          position: 'left',
-        },
+        // {
+        //   to: 'docs/before/introduction',
+        //   activeBasePath: 'docs/before',
+        //   label: 'Before Acceptance',
+        //   position: 'left',
+        // },
         {
           to: 'docs/after/introduction',
           activeBasePath: 'docs/after',
@@ -37,15 +37,15 @@ module.exports = {
     footer: {
       style: 'light',
       links: [
-        {
-          title: 'Before Acceptance',
-          items: [
-            {
-              label: 'Introduction',
-              to: 'docs/before/introduction',
-            },
-          ],
-        },
+        // {
+        //   title: 'Before Acceptance',
+        //   items: [
+        //     {
+        //       label: 'Introduction',
+        //       to: 'docs/before/introduction',
+        //     },
+        //   ],
+        // },
         {
           title: 'After Acceptance',
           items: [
