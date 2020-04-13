@@ -220,7 +220,7 @@ _Home of Possibilities_
 - Diverse and inclusive community
 - A lot of opportunities to learn and grow
 
-_NOTE: Tembusu residents often brag that their residential college is the hardest to get into_
+_NOTE: Tembusu residents often said that their residential college is the hardest to get into_
 
 #### Location
 - 8-10 minutes walk to University Town internal bus stop

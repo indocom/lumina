@@ -16,7 +16,7 @@ We want to say **THANKS** to our amazing contributors!
 - RVRC : Jessie Ganadhi
 - Tembusu: Iona Tanan
 - USP/Cinnamon College: Aldrich
-
+- Prince George's Park: Aldrich
 
 and to all coordinating PINUS Committee members: 
 

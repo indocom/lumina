@@ -64,8 +64,8 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle" style={{paddingTop: ".5em", lineHeight: .5}}>{"Byte-sized, unofficial, insider guide to NUS"}</p>
-          <p style={{fontSize: "1rem", lineHeight: 0.5}}>{"Delivered to you by Perhimpunan Indonesia NUS"}</p>
+          <p className="hero__subtitle" style={{paddingTop: ".5em", lineHeight: 1}}>{"Byte-sized, unofficial, insider guide to NUS"}</p>
+          <p style={{fontSize: "1rem", lineHeight: 1}}>{"Delivered to you by Perhimpunan Indonesia NUS"}</p>
           <div className={styles.buttons} style={{paddingTop: ".8em"}}>
             <Link
               className={classnames(
