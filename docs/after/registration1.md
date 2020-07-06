@@ -12,7 +12,7 @@ Please login to the [Registration (Part One) System](https://myregistration.nus.
 The following forms should be downloaded during the Registration (Part One)
 :::
 
-If you are under 18 years of age **at the time of completing Registration (Part One)**, you must prepare the following forms and **have your parent/guardian sign** the forms and bring them to the Registrar’s Office for submission.
+If you are under 18 years of age **at the time of completing Registration (Part One)**, you must prepare the following forms and **have your parent/guardian sign** the forms and email the scanned copies of the forms to ugregistration@nus.edu.sg.
 
 1. Risk Acknowledgement and Consent – compulsory for all students
 1. Authorisation of Medical Procedures – compulsory for international students only
@@ -40,3 +40,6 @@ NUSNET ID will be used to access internet on campus, email, logging in to NUS sy
 1. What to fill in the _Nomination of Local (Singapore-based) Representative Section_ if I do not have any relatives / friends living in Singapore?
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU3NjY4MzE3N119
+-->
