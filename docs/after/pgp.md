@@ -2,7 +2,7 @@
 id: pgp
 title: Prince George's Park
 ---
-currently editing: FRANS
+
 ## General Information
 
 ### Dining Experience
@@ -76,5 +76,5 @@ No CCAs. PGPR is just another apartment.
 
 Yay no events! Other than maybe monthly events organized within your floor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNTI4NzJdfQ==
+eyJoaXN0b3J5IjpbNjA4MTk2NzhdfQ==
 -->
