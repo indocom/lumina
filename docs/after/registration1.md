@@ -35,12 +35,12 @@ NUSNET ID will be used to access internet on campus, email, logging in to NUS sy
 ### Next steps
 1. Students are required to change their default NUSNET password via the [NUS Password Portal](https://exchange.nus.edu.sg/passwordportal/) 
 2. Prepare documents to apply [Student Pass](student-pass.md)
-3. Write an email to ugregistration@nus.edu.sg to provide your consentfor NUS to activate your student card on your behalf. If you are under 18, please email the scanned copy of the 3 documents men
+3. Write an email to ugregistration@nus.edu.sg to provide your consentfor NUS to activate your student card on your behalf. If you are under 18, please email the scanned copy of the 3 documents mentioned above.
 
 ### Frequently Asked Questions
 1. What to fill in the _Nomination of Local (Singapore-based) Representative Section_ if I do not have any relatives / friends living in Singapore?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU1NDg1MzRdfQ==
+eyJoaXN0b3J5IjpbMTk3NjA2ODMxOF19
 -->
