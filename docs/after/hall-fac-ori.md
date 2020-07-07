@@ -8,3 +8,6 @@ The end of the NUS orientation period is customarily marked with the Rag and Fla
 
 There will be open to public performances from all the faculties and halls, usually attended by the Singapore President. Members of the halls and faculties would have spent their three months summer holiday constructing a float for their 15 minutes performance on Rag Day.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4Njg5MTEwM119
+-->
