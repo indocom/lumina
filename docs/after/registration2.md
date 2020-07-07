@@ -5,7 +5,7 @@ title: Registration Part 2
 
 :warning: This page might not be updated. We will update it soon!
 
-Date: 31 July 2017 (AFTER ARRIVAL)<br/>
+Date: AFTER ARRIVAL<br/>
 
 You have to complete the rest of the registration formalities at NUS University Town, Town Plaza, Auditorium 1.
 
@@ -32,3 +32,6 @@ Upon the completion of registration formalities, you will be given:
 1. One appointment letter with stipulated time and venue for you to complete your student’s pass application.
 
 The enrolment session is from 1 to 3 August 2017, while the issuance session is from 22 to 23 August 2017.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTI3MTU4MzE1XX0=
+-->
