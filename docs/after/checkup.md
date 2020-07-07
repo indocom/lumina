@@ -1,16 +1,16 @@
 ---
 id: checkup
-title: Pre-AdCheckup
+title: Pre-Admission Medical Checkup
 ---
 
 We strongly encourage you to conduct your medical examination in NUS to avoid any unwanted complications and incompatibilities that can arise if you complete the test in Indonesia. Please **do not delay** in taking this test because you will need it for the issuance of Student Pass, therefore, we recommend you to take it before QET or the day after.
 
-If you conduct your medical examination in NUS, NUS will send your results directly to ICA for the issuance of Student Pass. See [Registration Guide](http://www.nus.edu.sg/registrar/info/info/Registration-Guide-for-Undergraduate-Students.pdf) Section 9.2 
+If you conduct your medical examination in NUS, NUS will send your results directly to ICA for the issuance of Student Pass. See [Registration Guide](http://nus.edu.sg/registrar/docs/info/registration-guides/registration-guide-for-undergraduate-students.pdf) Section 9.2 
 
 For the latest information, please refer [here](http://www.nus.edu.sg/uhc/general-health/medical-examination/pre-admission/pre-admission-medical-exam)
 
 ### Booking 
-Early booking is essential to get the date you want! [Book your appointment here](https://www.gevme.com/nus-pre-admission-medical-examination2). It will cost $55 (fifty-five Singapore dollars) for you to get the test done here.
+Early booking is essential to get the date you want! [Book your appointment here](https://www.gevme.com/nus-pre-admission-medical-examination-2020). It will cost $55 (fifty-five Singapore dollars) for you to get the test done here.
 
 ### Things to prepare
 Several things to take note: 
@@ -34,5 +34,5 @@ To get there, you can take the NUS internal shuttle bus. For bus lines A1 / D2, 
 
 One week after your check up, don’t forget to bring your passport and go back to UHC to collect your results                                  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTk0MDY3Ml19
+eyJoaXN0b3J5IjpbMTE5NzA0NzY5NF19
 -->
