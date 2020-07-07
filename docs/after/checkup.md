@@ -1,6 +1,6 @@
 ---
 id: checkup
-title: Checkup
+title: Pre-AdCheckup
 ---
 
 We strongly encourage you to conduct your medical examination in NUS to avoid any unwanted complications and incompatibilities that can arise if you complete the test in Indonesia. Please **do not delay** in taking this test because you will need it for the issuance of Student Pass, therefore, we recommend you to take it before QET or the day after.
@@ -34,5 +34,5 @@ To get there, you can take the NUS internal shuttle bus. For bus lines A1 / D2, 
 
 One week after your check up, don’t forget to bring your passport and go back to UHC to collect your results                                  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA0NzUzNDddfQ==
+eyJoaXN0b3J5IjpbLTM3OTk0MDY3Ml19
 -->
