@@ -7,5 +7,5 @@ Still confused about checking-in and all those hassles about getting to NUS? We,
 
 So, interested? Just go to PINUS Orientation registration form and indicate your interest on the form. Hope to see you there!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTY4MDM5NSwxMzM5NTUyODY3XX0=
+eyJoaXN0b3J5IjpbLTk4MDA0Njc5NSwxMzM5NTUyODY3XX0=
 -->
