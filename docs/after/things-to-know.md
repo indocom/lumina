@@ -34,3 +34,6 @@ Bored after grueling hours of study sessions? Want to get out and unwind for a w
 Vivo City, the biggest of them all, is only a 20 minute bus ride away. Catch a movie, shop for presents, or just lounge on the rooftop garden to enjoy the sunset. Clementi Town Centre, comprising of the newly built Clementi Mall and the smaller, older cityVibe, is only 15 minutes from NUS whereas the smallest, but not the least important mall, is West Coast Plaza. You can get your fix of Sakae Sushi there. West Coast Plaza is the nearest from NUS, only 10 minutes away.
 
 If you are lazy to go out of NUS but need to restock on snacks and tidbits, don't worry. Nanyang Supermarket, located in PGPR, and Fairprice Express, located in U-Town, is the answer. They might not be as complete as supermarkets outside NUS, but they provide a lot of your daily needs: milk, fruits, bread, even soap and shampoo. There are also 24-hour convenience stores (two Cheers and a 7-Eleven) if you need something late at night.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzMTc1NDE4M119
+-->
