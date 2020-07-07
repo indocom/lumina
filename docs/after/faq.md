@@ -15,5 +15,5 @@ You can also apply for the Tertiary Student EZ-link card. For more information, 
 
 Perlu laptop dengan spesifikasi seperti apa sih?. Also see [here](things-to-know#purchasing-laptops-electronics-gadgets) for more info.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDYxMjc5MCwtMTI1MzE5ODc0OF19
+eyJoaXN0b3J5IjpbLTEzMjgyODg1NiwtMTI1MzE5ODc0OF19
 -->
