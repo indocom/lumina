@@ -50,5 +50,5 @@ Vivo City, the biggest of them all, is only a 20 minute bus ride away. Catch a m
 
 If you are lazy to go out of NUS but need to restock on snacks and tidbits, don't worry. Nanyang Supermarket, located in PGPR, and Fairprice Express, located in U-Town, is the answer. They might not be as complete as supermarkets outside NUS, but they provide a lot of your daily needs: milk, fruits, bread, even soap and shampoo. There are also 24-hour convenience stores (two Cheers and a 7-Eleven) if you need something late at night.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzIyNTU4MSwxMTMxNzU0MTgzXX0=
+eyJoaXN0b3J5IjpbODkwNjkxNDUzLDExMzE3NTQxODNdfQ==
 -->
