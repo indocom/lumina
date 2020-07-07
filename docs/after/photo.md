@@ -16,3 +16,6 @@ You can submit your photo via the [Online Photo Submission](https://myaces.nus.e
 More information can be found [here](http://www.nus.edu.sg/registrar/info/info/FAQs-Registration-of-New-Undergraduate-Students.pdf).
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI1NDEzMDM4NF19
+-->
