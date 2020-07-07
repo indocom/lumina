@@ -12,5 +12,5 @@ There will be open to public performances from all the faculties and halls, usua
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzOTU4NTMsMTg4Njg5MTEwM119
+eyJoaXN0b3J5IjpbLTE2MTE0OTYwNTEsMTg4Njg5MTEwM119
 -->
