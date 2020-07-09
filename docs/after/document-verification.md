@@ -9,5 +9,6 @@ After term has started, usually at the beginning of September, NUS will conduct 
 
 Additional tips: Please scan and save digital copies of important document such as your passport, kartu keluarga, etc. You may need this to apply for financial aid and other related programs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNjY0OTU5LC0xNjc5OTAwMTEzXX0=
+eyJoaXN0b3J5IjpbLTY2NzU4MzM0MSw2NjI2NjQ5NTksLTE2Nz
+k5MDAxMTNdfQ==
 -->
