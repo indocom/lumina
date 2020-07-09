@@ -40,12 +40,47 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 -   10-Day 100GB local data
 -   30-Day 5GB roaming data
 
+**Rates**
 
 | Local calls | SMS | Data |
 |--|--|--|
 | 18¢ per minute | 5¢ Local SMS, 15¢ Global SMS | 5¢ per 10KB (More Savings with Data Plans) |
 
+| Validity | Data |
+|--|--|
+| 1-Day | 1GB for $3 |
+| 3-Day | 1GB for $5 |
+| 1-Week | 1GB for $8 |
+| 4-Week | 1GB for $10 |
+| 4-Week | 2GB for $18 with free data on Sundays |
+| 4-Week |  |
+|  |  |
+
+
+1-Day
+
+1GB for $3
+
+3-Day
+
+1GB for $5
+
+1-Week
+
+1GB for $8
+
+4-Week
+
+1GB for $10
+
+4-Week
+
+2GB for $18 with free data on Sundays
+
+4-Week
+
+20GB for $25 (16GB local data + 4GB roaming data) with free data on Sundays
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3ODU2MTEsMTI5NjYzNTIyLDE2NzIyMj
-Y2NDNdfQ==
+eyJoaXN0b3J5IjpbLTk1MDE4OTg4LDEyOTY2MzUyMiwxNjcyMj
+I2NjQzXX0=
 -->
