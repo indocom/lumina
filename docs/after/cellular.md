@@ -53,34 +53,9 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 | 1-Week | 1GB for $8 |
 | 4-Week | 1GB for $10 |
 | 4-Week | 2GB for $18 with free data on Sundays |
-| 4-Week |  |
-|  |  |
+| 4-Week | 20GB for $25 (16GB local data + 4GB roaming data) with free data on Sundays
 
-
-1-Day
-
-1GB for $3
-
-3-Day
-
-1GB for $5
-
-1-Week
-
-1GB for $8
-
-4-Week
-
-1GB for $10
-
-4-Week
-
-2GB for $18 with free data on Sundays
-
-4-Week
-
-20GB for $25 (16GB local data + 4GB roaming data) with free data on Sundays
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDE4OTg4LDEyOTY2MzUyMiwxNjcyMj
+eyJoaXN0b3J5IjpbNTgzNDE3NjA5LDEyOTY2MzUyMiwxNjcyMj
 I2NjQzXX0=
 -->
