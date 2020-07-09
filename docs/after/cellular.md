@@ -39,6 +39,27 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 -   $50 Credit for 180 days
 -   10-Day 100GB local data
 -   30-Day 5GB roaming data
+
+
+| Local calls | SMS | Data | MMS |
+|--|--|--|--|
+| 18¢ per minute | 5¢ Local SMS, 15¢ Global SMS |	|	|
+
+
+
+
+5¢ per 10KB
+
+(More Savings with Data Plans)
+
+30¢ per MMS
+
+(less than 30kb)
+
+80¢ per MMS
+
+(30kb and more)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjYzNTIyLDE2NzIyMjY2NDNdfQ==
+eyJoaXN0b3J5IjpbNTQ1NzA5Mzc3LDEyOTY2MzUyMiwxNjcyMj
+I2NjQzXX0=
 -->
