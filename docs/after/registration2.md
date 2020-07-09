@@ -11,14 +11,14 @@ NUS regularly update the Registration Guide. Make sure you check the cover to ch
 
 If you are under 18 years old at the point of completion of Registration (Part One), please also email the following printouts with your parent’s signature to ugregistration@nus.edu.sg:
 
-1. Risk Acknowledgement and Consent:
+1. Risk Acknowledgement and Consent aka Release of Liability
+2. Authorization of Medical Procedures
+3. Appointment of Local (Singapore-based) Representative.
 
-1. Release of Liability
-1. Authorization of Medical Procedures
-1. Appointment of Local (Singapore-based) Representative.
+NUS will follow-up with you regarding the collection of the Student Card.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIyMjg5OTAsMTQ0ODgzNTE5OSwtOT
-QxNDIwMjM0XX0=
+eyJoaXN0b3J5IjpbNTgxMTE2MTAsMTQ0ODgzNTE5OSwtOTQxND
+IwMjM0XX0=
 -->
