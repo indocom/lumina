@@ -21,23 +21,30 @@ Once the application has been approved, you will receive a copy of the In-Princi
 This completes the initial process of the student pass application. ICA has arranged for an off-site enrolment for the issuance of Student's Pass on the dates below. You are required to report for off-site enrolment according to the date and time stipulated in your appointment letter, which will be issued at the Registration Centre:
 
 
-You should bring the necessary documents/items as given in page 8 – 9 of the [Registration Guide](http://www.nus.edu.sg/registrar/info/info/Registration-Guide-for-Undergraduate-Students.pdf). 
+You should bring the necessary documents/items as given in the Registration Guide:
 
+-  Recent colour passport-sized photo (4.5 x 3.5 cm)
+    
+-   Disembarkation/Embarkation (D/E) Card or copy of electronic Arrival Card or any valid passes (i.e. STP, LTVP, DP, EP)
+    
+-   IPA Letter
+    
+-   Original and Photocopy of Passport Particulars Page
+    
+-   eForm 16 (printed and signed)
+    
+-   Payment Receipt
+    
+-   Student Pass Terms and Conditions (printed + signed)
 
 :::tip
 NUS regularly update the Registration Guide. Make sure you check the cover to check if the guide is for your semester.
 :::
 
-
-Enrolment sessions:<br/>
-Date: 1 to 3 August 2017<br/>
-Time and venue: Given in the appointment letter
-
-
-Issuance session:<br/>
-Date: 22 to 23 August 2017<br/>
-Time and venue: Given in the appointment letter
+:::tip
+Check your NUS email regularly as they will inform you about the 
+:::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMzg1MTgwLC0xNTQyMDA3MjcwLC0zNT
-k4Mjc0NTJdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTcxNzcxMCwtMTU0MjAwNzI3MCwtMz
+U5ODI3NDUyXX0=
 -->
