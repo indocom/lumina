@@ -31,69 +31,41 @@ What it means: Lor holds a sense of resignation and finality when used at the en
 
 Example: “Like that, lor”
 
-Chope
+**Chope**
 What it means: To reserve a place or call dibs on something.
 Example: “Can you chope a seat for me?”
 
-Tapao
+**Tapao**
 What it means: The Singlish equivalent of takeaway.
 Example: “I’m going to tapao lunch from the hawker centre.”
 
-  
-
-Cheem
-
+**Cheem**
 What it means: If something has got you dumbfounded, perplexed, bewildered, confused or any synonym related to these words, that thing is cheem.
-
 Example: “This exam question is cheem” or “She writes in a really cheem way.”
 
-  
-
-Shiok
-
+**Shiok**
 What it means: Fantastic, or to convey feelings of satisfaction and pleasure.
-
 Example: “This plate of chicken rice is damn shiok.”
 
-  
-
-Paiseh
-
+**Paiseh**
 What it means: A Hokkien term for embarrassing and shy. If you’re out for a big meal and there’s a little left on a sharing plate that nobody wants to take, it’s also known as the ‘paiseh piece’.
-
 Example: “Paiseh – can you lend me some cash?”
 
-  
-
-Sian
-
+**Sian**
 What it means: As long as you’re experiencing boredom, a lack of enthusiasm or just tired of life. Basically this word can be used in a multitude of contexts.
-
 Example: “Time is passing so slowly, sian” or “I hardly slept today, sian.”
 
-  
-
-Atas
-
+**Atas**
 What it means: This word was recently added to take Oxford dictionary (yay Singlish). It means to be posh or of high social status.
-
 Example: “The meal we had at that fine dining restaurant was so atas”, or “Wow, look at the way that girl dresses, it’s so atas!”
 
-  
-
-Kiasu
-
+**Kiasu**
 What it means: A fiercely competitive spirit.
-
 Example: “She queued for four hours to get the latest iPhone – so kiasu!”
 
-  
-
-Can or not?
-
+**Can or not?**
 What it means: A way of asking if something is possible/can be achieved.
-
 Example: “Dinner at 7? Can or not?”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzI5NTA1NCw0NzIxMzQ5NDVdfQ==
+eyJoaXN0b3J5IjpbNjIxMjU3OTI2LDQ3MjEzNDk0NV19
 -->
