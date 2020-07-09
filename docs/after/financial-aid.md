@@ -72,5 +72,6 @@ Apply via Financial Aid
 
 More info about busaries can be found [here](http://www.nus.edu.sg/oam/financialaid/bursaries/financial-bursaries.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjY5OTI2NSw1NDQ3MzgyMTFdfQ==
+eyJoaXN0b3J5IjpbLTExMzYyMjc3NDMsMTY2MjY5OTI2NSw1ND
+Q3MzgyMTFdfQ==
 -->
