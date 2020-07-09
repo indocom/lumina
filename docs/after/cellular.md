@@ -46,7 +46,14 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 | 18¢ per minute | 5¢ Local SMS, 15¢ Global SMS |	|	|
 
 
-
+<tabel>
+<tr>
+<td> Local calls </td> 
+<td> SMS </td>
+<td> Data </td>
+<td> MMS </td>
+</tr>
+</table>
 
 5¢ per 10KB
 
@@ -60,6 +67,6 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 
 (30kb and more)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1NzA5Mzc3LDEyOTY2MzUyMiwxNjcyMj
+eyJoaXN0b3J5IjpbLTM4NTczNzI5LDEyOTY2MzUyMiwxNjcyMj
 I2NjQzXX0=
 -->
