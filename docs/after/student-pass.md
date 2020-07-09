@@ -42,9 +42,9 @@ NUS regularly update the Registration Guide. Make sure you check the cover to ch
 :::
 
 :::tip
-Check your NUS email regularly as they will inform you about the 
+Check your NUS email regularly as they will inform you about the date and time for enrolment and issuance sessions.
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTcxNzcxMCwtMTU0MjAwNzI3MCwtMz
-U5ODI3NDUyXX0=
+eyJoaXN0b3J5IjpbLTEzMTEwODc0NzQsLTE1NDIwMDcyNzAsLT
+M1OTgyNzQ1Ml19
 -->
