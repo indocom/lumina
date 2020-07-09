@@ -11,12 +11,12 @@ title: Apps for Survival
 **NUS Related**
 - www.nusmods.com
 	- Timetable planner. Refer to ModReg section for more info.
+- LumiNUS
+	- NUS' online platform where profs and lecturers will upload materials and webcasts. 
 - NUSNextBus
 	- The NUS internal bus system is not on Google Maps. The app will show routes and bus ETAs (although it’s not always accurate)
 - www.nusbusiness.com (Yes, it’s a real website)
 	- A map of all restrooms in NUS. Finding one on campus can be difficult sometimes.
-- LumiNUS
-- NUS' online platform where profs and lecturers will upload materials and  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDIxMzIyOCwtMTQ2MjkxNTMzNF19
+eyJoaXN0b3J5IjpbMTc0MzQxNzQxNCwtMTQ2MjkxNTMzNF19
 -->
