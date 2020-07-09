@@ -3,10 +3,6 @@ id: student-pass
 title: Student Pass
 ---
 
-
-:warning: This page is not up to date. We will update it soon!
-
-
 NUS would have already submitted an application for your student's pass for you. Once NUS have informed you of your SOLAR Application number, all you need to do is login to ICA's SOLAR system to wrap up the process.
 
 
@@ -42,5 +38,6 @@ Issuance session:<br/>
 Date: 22 to 23 August 2017<br/>
 Time and venue: Given in the appointment letter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIwMDcyNzAsLTM1OTgyNzQ1Ml19
+eyJoaXN0b3J5IjpbNzAzMzg1MTgwLC0xNTQyMDA3MjcwLC0zNT
+k4Mjc0NTJdfQ==
 -->
