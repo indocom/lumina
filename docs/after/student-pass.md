@@ -37,14 +37,12 @@ You should bring the necessary documents/items as given in the Registration Guid
     
 -   Student Pass Terms and Conditions (printed + signed)
 
-:::tip
 NUS regularly update the Registration Guide. Make sure you check the cover to check if the guide is for your semester.
-:::
 
 :::tip
 Check your NUS email regularly as they will inform you about the date and time for enrolment and issuance sessions.
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTEwODc0NzQsLTE1NDIwMDcyNzAsLT
-M1OTgyNzQ1Ml19
+eyJoaXN0b3J5IjpbMTA1NDk5MzIyMywtMTU0MjAwNzI3MCwtMz
+U5ODI3NDUyXX0=
 -->
