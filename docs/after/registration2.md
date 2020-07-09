@@ -9,7 +9,7 @@ NUS regularly update the Registration Guide. Make sure you check the cover to ch
 
 *Usually in past years*, in this part of the registration process, you would be asked to collect and activate your NUS Student Card. But this year, if you have completed Registration Part 1, please write to NUS at ugregistration@nus.edu.sg to provide your consent for them to activate your Student Card on your behalf.
 
-If you are under 18 years old at the point of completion of Registration (Part One), please also emailbring the following printouts with your parent’s signature to ugregistration@nus.edu.sg:
+If you are under 18 years old at the point of completion of Registration (Part One), please also email the following printouts with your parent’s signature to ugregistration@nus.edu.sg:
 
 1. Risk Acknowledgement and Consent:
 
@@ -19,6 +19,6 @@ If you are under 18 years old at the point of completion of Registration (Part O
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI3NDQ4NCwxNDQ4ODM1MTk5LC05ND
-E0MjAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDIyMjg5OTAsMTQ0ODgzNTE5OSwtOT
+QxNDIwMjM0XX0=
 -->
