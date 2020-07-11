@@ -41,7 +41,7 @@ A tutorial group may be cancelled if enrolment for the group is low. If students
 
 Students who read modules offered by the Faculty of Arts and Social Sciences have to register for tutorial groups for their modules. Otherwise, the Faculty will withdraw the module with a ‘W’ grade in Week 5 of the semester.
 
-Stages of Tutorial Registration:
+**Stages of Tutorial Registration:**
 
 1. [Select Tutorials/Labs] Function
 
@@ -62,20 +62,16 @@ Stages of Tutorial Registration:
 -   Appeals to departments should only be filed after the student has tried but failed to secure a suitable tutorial timeslot using the above-listed methods. Students should note that they can appeal only for tutorial groups with vacancies. The departments will not accommodate students who regard manual (walk-in) registration as the first course of action, instead of balloting and add/swap.
     
 
-Dropping of modules:
-
+**Dropping of modules:**
 A student may drop a module he/she is enrolled in so long as the remaining MCs meet the minimum workload requirement. When a module is dropped, all associated classes (e.g. lectures, seminar, tutorial, labs, etc.) will be dropped in tandem.
 
 When dropping a module, students should be mindful of the “W” and “F” grade period (refer to [Academic Calendar](http://www.nus.edu.sg/registrar/calendar.html)). “W” stands for withdraw, and “F” stands for fail. In general, students will be able to drop modules via the [Drop Classes] function before the “F” grade period. A student should approach the module host faculty if he/she has difficulty dropping modules via ModReg@EduRec.
 
 **Dropping of tutorial/lab classes:**
-
 Students may drop a tutorial/lab class they have been successfully allocated if they wish to change to another class. Dropping a tutorial/lab class will not de-enrol a student from his/her module.
 
 **Submit appeals**
-
 Students can submit appeals via the [Submit Appeals/Inquiries] function to address module/class enrolment issues. To facilitate efficient handling of appeals, students should select the correct appeal type.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY3NzQxOTIsLTExNDQ3NTg1ODRdfQ
-==
+eyJoaXN0b3J5IjpbMTAwMjc4NDI2MiwtMTE0NDc1ODU4NF19
 -->
