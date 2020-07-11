@@ -5,9 +5,77 @@ title: Module Registration
 
 Module Registration process in NUS is done via the ModReg portal in EduRec. It is where you will choose your desired module for the semester.
 
-![enter image description here](http://www.nus.edu.sg/ModReg/modreg/images/undergraduate-students-v4.jpg)
+![modreg flowchart](http://www.nus.edu.sg/ModReg/modreg/images/undergraduate-students-v4.jpg)
 
+You will receive an email from the Registrar’s Communication when the module registration period is about to begin. The first thing to do before you can choose / select your desired modules, you have to submit your academic plan declaration for the following semester. Do note your own degree requirements before selecting the modules, and make sure you have simulated your desired timetable for the semester to make sure there is no timetable clash. This can be done through NUSMods.
 
+  
+
+Module Registration process is divided into 3 rounds.
+
+-   Round 1  
+    This is a protected round.  
+    Students will be able to select modules that can be used towards:  
+    (i) Programme (Faculty, Major, Specialisation) requirements  
+    (ii) Second Major requirements  
+    (iii) Direct admission/restricted Minor requirements  
+    (iv) Prescribed English requirements (i.e. modules offered by CELC)  
+      
+    
+-   Round 2  
+    This is an open round where UG students are able to select all modules (including General Education modules) they wish to read for the semester.  
+    Priority for General Education modules will be first accorded to students who have not read a module from a particular pillar (i.e. GEH, GET or GES) before students who are seeking to read a 2nd module from the same pillar.
+    
+
+-   Round 3  
+    This round is similar to Round 2 except that the balance quotas are merged for all categories of students (GD/UG/NG/CPE) to optimise class enrolment. That is, un-used quota from a particular category of students may be allocated to students from another category
+    
+
+After all your modules have been allocated to you, you will have to choose your tutorial / lab class via ModReg after round 3 is finished. You can refer to the [View My Classes] function to see the modules allocated to you.
+
+  
+
+Tutorial/lab registration is by balloting. The allocation of tutorial groups is an exercise that is separate from the allocation of modules by [Select Modules] or [Submit Module Requests]. Students should refer to the registration schedule for the dates of the different rounds for Tutorials/Labs registration.
+
+A tutorial group may be cancelled if enrolment for the group is low. If students cannot find a suitable tutorial group for a module, they may be required to drop the module and be asked to choose an alternative module with vacancies.
+
+Students who read modules offered by the Faculty of Arts and Social Sciences have to register for tutorial groups for their modules. Otherwise, the Faculty will withdraw the module with a ‘W’ grade in Week 5 of the semester.
+
+Stages of Tutorial Registration:
+
+1. [Select Tutorials/Labs] Function
+
+-   There are 2 [Select Tutorials/Labs] rounds.
+    
+-   For each round, you can select and rank up to 20 preferred Tutorial/Lab timeslots for all the modules that you are enrolled in, but you must ensure that there are no timetable clashes between the ranked preferences and his/her existing class schedule.
+    
+
+2. [Add/Swap Tutorials/Labs] Function
+
+-   The add/swap process begins after the last round of tutorial/lab balloting. Students without tutorial class can use this function to add tutorial class as long as there are still vacancies. The add request will be processed at frequent intervals and allocation is on first-come-first-served basis.
+    
+-   If a student has already been successfully allocated a tutorial class but would like to change to another class that is currently full, he/she can post a swap request. The swap request will be processed at frequent intervals and will be effected when there is a corresponding match with another student. Otherwise, the request will be stored in the system until the time when a corresponding match is found. Students may check their tutorial/lab allocation in [View My Classes].
+    
+
+3. Manual (Walk-In) Registration at Departments
+
+-   Appeals to departments should only be filed after the student has tried but failed to secure a suitable tutorial timeslot using the above-listed methods. Students should note that they can appeal only for tutorial groups with vacancies. The departments will not accommodate students who regard manual (walk-in) registration as the first course of action, instead of balloting and add/swap.
+    
+
+Dropping of modules:
+
+A student may drop a module he/she is enrolled in so long as the remaining MCs meet the minimum workload requirement. When a module is dropped, all associated classes (e.g. lectures, seminar, tutorial, labs, etc.) will be dropped in tandem.
+
+When dropping a module, students should be mindful of the “W” and “F” grade period (refer to [Academic Calendar](http://www.nus.edu.sg/registrar/calendar.html)). “W” stands for withdraw, and “F” stands for fail. In general, students will be able to drop modules via the [Drop Classes] function before the “F” grade period. A student should approach the module host faculty if he/she has difficulty dropping modules via ModReg@EduRec.
+
+**Dropping of tutorial/lab classes:**
+
+Students may drop a tutorial/lab class they have been successfully allocated if they wish to change to another class. Dropping a tutorial/lab class will not de-enrol a student from his/her module.
+
+**Submit appeals**
+
+Students can submit appeals via the [Submit Appeals/Inquiries] function to address module/class enrolment issues. To facilitate efficient handling of appeals, students should select the correct appeal type.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTU5MzM1NCwtMTE0NDc1ODU4NF19
+eyJoaXN0b3J5IjpbLTEzOTY3NzQxOTIsLTExNDQ3NTg1ODRdfQ
+==
 -->
