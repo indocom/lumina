@@ -3,9 +3,9 @@ id: tg
 title: Tuition Grant
 ---
 
-:warning: This page might not be uptodate. We will update it soon!
-
-Important dates, check [here](https://tgonline.moe.gov.sg/tgis/normal/studentViewGrantCalendar.action)
+:::warning
+This page is not up to date. We will update it soon!
+:::
 
 
 ### Online Application
@@ -24,6 +24,3 @@ You will need your two sureties to sign the Tuition Grant Agreement with you on 
 The instructions for filling the agreement can be found [here](https://tgonline.moe.gov.sg/docs/NPbooklet.pdf).
  
 You then only need to bring the signed documents to the signing location, and DONE! Make sure to read and agree to the terms and conditions too.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTQ4MzE0M119
--->

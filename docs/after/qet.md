@@ -46,11 +46,3 @@ Usually, Perhimpunan Indonesia NUS will provide QET tutoring session to brief an
 
 
 You must bring laptops, since this will be an online based test.
-
-
-### Frequently Asked Questions
-1. What if I am exempted from taking QET? What should I do? <br/> _Freshmen who have met the exemption criteria can overlook this step entirely. There is no need to report your fulfillment of the criteria to CELC, so just relax._
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU5MTI2NSwtMTUyNjU1NTEyOSw0Mj
-EzNzM5ODNdfQ==
--->

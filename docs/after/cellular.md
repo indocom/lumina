@@ -3,9 +3,7 @@ id: cellular
 title: Cellular & Data Plans
 ---
 
-:warning: This page is still under development
-
-Prepaid SIM Cards
+**Prepaid SIM Cards**
 
 ## SingTel
 
@@ -29,12 +27,14 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 **![](https://lh5.googleusercontent.com/PIq2gRmBhFgcVYkx1fg1eMM4hDPcwJgAZy0J5HORtHFgvWk7rKbsxDZFDgKoLGz8fYJsIVMoJwejfe39fYsNQZodQ6ozJw8yNwD7ew_ENSWFU4V2AlzBhR2ZIR-Dz2zg-Oc2uusl)**
 -   $10 Credit for 90 days
 -   30-Day 800MB local data
-<br>
+<br />
+
 **![](https://lh3.googleusercontent.com/FFJkMm3Dei_MEUzOcuntGOBB33HkyL2CG5TDWNFzqiJiuzpYWF13KjnpTxM-5fX7x2OYmln9B92zkqtvjmFeQZnYBixdo_eiXxbnHrBnt-KbJqunMRjx5tMsI9RmOs4uEougj7T4)**
 -   $15 Credit for 180 days
 -   180-Day 8GB local data
 -   FREE WeChat, WhatsApp and LINE for 180 days after activation date
-<br>
+<br />
+
 **![](https://lh4.googleusercontent.com/D2ExajPrdvKHMOhL5_w15nUYWAZa37nXFXCaesN4S51QTkWLG4zN_H3XV803S105yN2jxpXcJJiGApffQKI7wNsyePCAPz9LjTf1JnCZ9sYnvyMQi94Z7nfl2Fjt2JIILCwcRoQF)**
 -   $50 Credit for 180 days
 -   10-Day 100GB local data
@@ -54,8 +54,3 @@ Pay $20 and get 5GB of 4G local data (valid for 7 days). Available at Singtel Sh
 | 4-Week | 1GB for $10 |
 | 4-Week | 2GB for $18 with free data on Sundays |
 | 4-Week | 20GB for $25 (16GB local data + 4GB roaming data) with free data on Sundays
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNDE3NjA5LDEyOTY2MzUyMiwxNjcyMj
-I2NjQzXX0=
--->

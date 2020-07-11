@@ -17,6 +17,3 @@ title: Apps for Survival
 	- The NUS internal bus system is not on Google Maps. The app will show routes and bus ETAs (although it’s not always accurate)
 - www.nusbusiness.com (Yes, it’s a real website)
 	- A map of all restrooms in NUS. Finding one on campus can be difficult sometimes.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzQxNzQxNCwtMTQ2MjkxNTMzNF19
--->
