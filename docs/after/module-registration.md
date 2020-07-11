@@ -3,7 +3,24 @@ id: module-registration
 title: Module Registration
 ---
 
-Module Registration process in NUS is done via the ModReg portal in EduRec. It is where you will choose your desired module for the semester.
+**A brief introduction to the modular system**
+
+ Note: this section applies mainly for Engineering, Computing, Science, SDE, FASS, BIZ, some exceptions may apply for different majors. Do double check with seniors from the same major.
+-   Classes/courses in NUS are called “modules”.
+    
+-   Almost every module will have MCs (modular credits) assigned to them.
+    
+-   Most modules are 4 MCs.
+    
+-   You will need about 160 MCs to graduate, depending on your major.
+    
+-   Out of these ~160 MCs, more than half of them are your Core Modules (Modules associated with your major)
+    
+-   You will need to clear 5 General Education Modules (20 MCs in total) before you graduate. Students in the UTown college programme will take RC modules instead.
+    
+-   You will have about 32 MCs of Unrestricted Electives (You can take any modules you are interested in, even if it’s from outside of your major/faculty)
+
+**Module Registration process in NUS is done via the ModReg portal in EduRec. It is where you will choose your desired module for the semester.**
 
 ![modreg flowchart](http://www.nus.edu.sg/ModReg/modreg/images/undergraduate-students-v4.jpg)
 
@@ -73,5 +90,6 @@ Students may drop a tutorial/lab class they have been successfully allocated if 
 **Submit appeals**
 Students can submit appeals via the [Submit Appeals/Inquiries] function to address module/class enrolment issues. To facilitate efficient handling of appeals, students should select the correct appeal type.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjc4NDI2MiwtMTE0NDc1ODU4NF19
+eyJoaXN0b3J5IjpbNzUzNTE2MjY3LDEwMDI3ODQyNjIsLTExND
+Q3NTg1ODRdfQ==
 -->
