@@ -2,10 +2,13 @@
 id: senior-pickup
 title: Senior Pick-up
 ---
-Still confused about checking-in and all those hassles about getting to NUS? We, seniors, will come to the rescue! We are offering the Senior Pick-Up service in which we will escort you from Changi airport to your hostel and also help you settle the process of checking-in.
 
+:::note
+This page is still under maintanance. 
+:::
 
-So, interested? Just go to PINUS Orientation registration form and indicate your interest on the form. Hope to see you there!
+Still confused about checking-in and all those hassles about getting to NUS? We, seniors, will come to the rescue! Stay tuned for more info!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDA0Njc5NSwxMzM5NTUyODY3XX0=
+eyJoaXN0b3J5IjpbLTEwODYwNzIwODksLTk4MDA0Njc5NSwxMz
+M5NTUyODY3XX0=
 -->
