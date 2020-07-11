@@ -3,9 +3,9 @@ id: tg
 title: Tuition Grant
 ---
 
-:warning: This page might not be uptodate. We will update it soon!
-
-Important dates, check [here](https://tgonline.moe.gov.sg/tgis/normal/studentViewGrantCalendar.action)
+:::warning
+This page is not up to date. We will update it soon!
+:::
 
 
 ### Online Application

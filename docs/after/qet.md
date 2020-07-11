@@ -33,6 +33,3 @@ Remember to register online via [Edurec](https://myedurec.nus.edu.sg/) from 19 J
 Usually, Perhimpunan Indonesia NUS will provide QET tutoring session to brief and prepare you for the exam! Wait for the announcement!
 
 You must bring laptops, since this will be an online based test.
-
-### Frequently Asked Questions
-1. What if I am exempted from taking QET? What should I do? <br/> _Freshmen who have met the exemption criteria can overlook this step entirely. There is no need to report your fulfillment of the criteria to CELC, so just relax._
