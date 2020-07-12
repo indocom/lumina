@@ -1,11 +1,11 @@
 module.exports = {
   title: 'NUS Guide',
   tagline: 'Bring me to NUS',
-  url: 'https://nus-guide.now.sh',
-  baseUrl: '/',
+  url: 'https://pinus-ori-web.github.io',
+  baseUrl: '/lumina/',
   favicon: 'img/logo.png',
-  organizationName: 'indocom', // Usually your GitHub org/user name.
-  projectName: 'study-in-nus', // Usually your repo name.
+  organizationName: 'pinus-ori-web', // Usually your GitHub org/user name.
+  projectName: 'lumina', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'NUSGuide',
@@ -22,9 +22,9 @@ module.exports = {
         //   position: 'left',
         // },
         {
-          to: 'docs/after/introduction',
+          to: 'docs/after/pinus-ori',
           activeBasePath: 'docs/after',
-          label: 'After Acceptance',
+          label: 'MELIORA 2020',
           position: 'left',
         },
         {
