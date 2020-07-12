@@ -4,7 +4,7 @@ title: Tuition Grant
 ---
 
 :::warning
-This page is not up to date. We will update it soon!
+The dates are not up to date, and due to the COVID-19 situation some changes are possible. We will update this page once more info are available. Do check MOE's and NUS' websites and regularly check your email, including NUS mail.
 :::
 
 

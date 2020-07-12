@@ -2,8 +2,8 @@
 id: financial-aid
 title: Financial Aid
 ---
-:::caution
-This page contains broken links and might not be updated. We will update it soon!
+:::note
+Some links might be broken. We will update it soon!
 :::
 
 

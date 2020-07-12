@@ -1,6 +1,6 @@
 ---
 id: singlish
-title: Singlish - Understanding the locals.
+title: Singlish - Understanding the locals
 ---
 
 Source: [https://thehoneycombers.com/singapore/singlish-101/](https://thehoneycombers.com/singapore/singlish-101/)
@@ -9,17 +9,17 @@ Source: [https://thehoneycombers.com/singapore/singlish-101/](https://thehoneyco
 This list of words and phrases is not exhaustive :)
 :::  
 
-Eh
+**Eh**
 What it means: Eh is basically how you address people or get their attention.
 Example: You would ask a colleague “Eh, wanna have lunch?” or call a friend to ask “Eh, would you like to gym later?” or even text your brother “Eh, I’m not coming home for dinner tonight.”
 
-Lah
+**Lah**
 What it means: A suffix used to place emphasis on the sentence or word before.
 Example: “Don’t worry about it lah!” Or, get used to hearing “Out of stock lah.”
 
   
 
-Leh and Lor
+**Leh and Lor**
 Lah is easy enough to master, but leh and lor? Not so much.
 What it means: Use leh when you’re not sure about something – it’s more like a question.
 

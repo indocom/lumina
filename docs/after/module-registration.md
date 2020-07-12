@@ -3,6 +3,13 @@ id: module-registration
 title: Module Registration
 ---
 
+:::note
+
+We are preparing a special ModReg guide. Stay tuned!
+
+:::
+
+
 **A brief introduction to the modular system**
 
  Note: this section applies mainly for Engineering, Computing, Science, SDE, FASS, BIZ, some exceptions may apply for different majors. Do double check with seniors from the same major.
@@ -20,9 +27,13 @@ title: Module Registration
     
 -   You will have about 32 MCs of Unrestricted Electives (You can take any modules you are interested in, even if it’s from outside of your major/faculty)
 
+
+
 **Module Registration process in NUS is done via the ModReg portal in EduRec. It is where you will choose your desired module for the semester.**
 
 ![modreg flowchart](http://www.nus.edu.sg/ModReg/modreg/images/undergraduate-students-v4.jpg)
+
+**Source of info on this page: [NUS ModReg website] (http://www.nus.edu.sg/ModReg/using_modreg_undergraduate.html)**
 
 You will receive an email from the Registrar’s Communication when the module registration period is about to begin. The first thing to do before you can choose / select your desired modules, you have to submit your academic plan declaration for the following semester. Do note your own degree requirements before selecting the modules, and make sure you have simulated your desired timetable for the semester to make sure there is no timetable clash. This can be done through NUSMods.
 
