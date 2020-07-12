@@ -10,7 +10,3 @@ If they're not released yet, you can have them mailed to Singapore once they're 
 Additional tips: 
 - Bring any documents that you scanned and uploaded when you were applying to NUS.
 - Please scan and save digital copies of important document such as your passport, kartu keluarga, etc. You may need this to apply for financial aid and other related programs.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTc2MDMzOCw2NjI2NjQ5NTksLTE2Nz
-k5MDAxMTNdfQ==
--->

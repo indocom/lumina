@@ -66,6 +66,3 @@ Example: “She queued for four hours to get the latest iPhone – so kiasu!”
 **Can or not?**
 What it means: A way of asking if something is possible/can be achieved.
 Example: “Dinner at 7? Can or not?”
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMjU3OTI2LDQ3MjEzNDk0NV19
--->
