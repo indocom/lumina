@@ -14,20 +14,18 @@ Once you log-in, you need to:
 
 Also, do note that you will need to bring the completed (and signed) eForm 16.
 
-Once the application has been approved, you will receive a copy of the In-Principle Approval letter (IPA) via an email. The hardcopy of the IPA letter will be issued at the registration center during the matriculation fair.
 
-This completes the initial process of the student pass application. ICA has arranged for an off-site enrolment for the issuance of Student's Pass on the dates below. You are required to report for off-site enrolment according to the date and time stipulated in your appointment letter, which will be issued at the Registration Centre:
+Once the application has been approved, you will need to pay a **$60 issuance fee + $30 multiple entry visa fee**. You will then (may take a few days) receive a copy of the In-Principle Approval letter (IPA) which you can download from the SOLAR portal. 
 
-You should bring the necessary documents/items as given in page 8 – 9 of the [Registration Guide](http://www.nus.edu.sg/registrar/info/info/Registration-Guide-for-Undergraduate-Students.pdf). 
+This completes the initial process of the student pass application. Once you are in Singapore, ICA will arrange an off-site enrolment for the issuance of Student's Pass. You are required to report for off-site enrolment according to the date and time informed to you.
 
-:::tip
-NUS regularly update the Registration Guide. Make sure you check the cover to check if the guide is for your semester.
-:::
+You should bring the necessary documents/items as given in the Registration Guide:
 
 Enrolment sessions:<br/>
 Date: 1 to 3 August 2017<br/>
 Time and venue: Given in the appointment letter
 
-Issuance session:<br/>
-Date: 22 to 23 August 2017<br/>
-Time and venue: Given in the appointment letter
+:::note
+Make sure you read the NUS Registration Guide and check your email (incld. NUS email) regularly for more details regarding the student pass issuance process.
+:::
+
