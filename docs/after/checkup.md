@@ -19,7 +19,7 @@ Several things to take note:
 - [NUS Medical Examination Form](http://www.nus.edu.sg/uhc/docs/default-source/default-document-library/undergraduate.pdf?sfvrsn=62ea6b98_2) with **Part I completed**
 - Prescription eyewear / contact lens
 - Wear a plain t-shirt or blouse (but if you don’t have one, it’s okay, usually they’ll ask you to wear their disposable X-ray gown anyway).
-- **For girls**, please do the medical examination at least 5 to 7 days after the end of your menses, since there will be a urine test. However, if that’s not possible they usually allow you to take the urine test some other time.
+- **For girls**, please do the medical examination at least 5 to 7 days after the end of your period, since there will be a urine test. However, if that’s not possible they usually allow you to take the urine test some other time.
 
 ### Getting there
 :::note
