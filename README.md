@@ -1,33 +1,31 @@
-# Website
+# guide.pi-nus.org
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+An unofficial informational website targeted for NUS freshmen coming from
+Indonesia. Data in the website are curated and updated by Perhimpunan Indonesia
+NUS.
 
-### Installation
+## Contributing
 
-```
-$ yarn
-```
+We really love your contribution for the site's content. There are several steps
+to contribute
 
-### Local Development
+1. Please fork this repository.
+2. do `git remote add upstream git@github.com:indocom/lumina.git`.
+3. Before you start making changes, pls do `git pull upstream master` to sync
+   changes
+4. After making changes, pls make a Pull Request to the master branch detailing
+   changes made.
 
-```
-$ yarn start
-```
+## Deployment
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+Currently, our deployment repository is located at
+<https://github.com/pinus-tech/lumina>. This might change in the future.
 
-### Build
+To deploy, you must have read-access from this repo and write-access to the
+deployment repo. But do check that all merge conflicts are resolved and it is
+running okay in your local machine.
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+To deploy,
+1. `git remote add deploy git@github.com:pinus-tech/lumina.git`
+2. `git pull origin master`
+3. `git push deploy master`
