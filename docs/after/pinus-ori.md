@@ -2,14 +2,10 @@
 id: pinus-ori
 title: Pinus Orientation Week
 ---
-:::tip
-A must!
-:::
+Join us in PINUS first ever online orientation programme: **Meliora**
 
-PINUS will help you to settle down in NUS and facilitate your transition from College to University. Therefore, join us for PINUS Orientation Week from 9th - 12th August.
-PINUS Orientation is an annual event. During these four days of a roller coaster ride, we invite you, freshmen, to embark on your NUS journey with us. Meet your fellow Indonesians, be they other freshmen, graduating seniors, or even NUS alumni. Enjoy the fun exploring NUS and Singapore, and gain valuable insights on the perks of being a PINUSian. Embrace your inner soul and your culture!
-Have a wonderful journey with us!
+Be ready to get to know your fellow PINUSians, your Online Meeting Group Leaders(OMGLs), and your game masters!!
+
+We have prepared exciting programmes just for you which include a virtual tour around NUS and lots of fun games to bond with your fellow PINUSians!!
 
 *The future is in your hands*
-
-**[Click here to sign up!](bit.ly/meliora2020)**
