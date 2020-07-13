@@ -14,5 +14,3 @@ You need to check the status of your photo submission several days after submitt
 You can submit your photo via the [Online Photo Submission](https://myaces.nus.edu.sg/photoVerification/PhotoVerificationNewLoginServlet?hAction=newStudent) portal.
 
 More information can be found [here](http://www.nus.edu.sg/registrar/info/info/FAQs-Registration-of-New-Undergraduate-Students.pdf).
-
-

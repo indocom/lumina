@@ -47,4 +47,4 @@ Go the bus stop in front of NUH. **Don't cross the road**. Take **A1 / D2** bus.
 
 ### University Town (Tembusu, Cinnamon, College of Alice and Peter Tan)
 
-Go the bus stop in front of NUH. **Don't cross the road**. Take **D2** bus. Alight at _University Town_. 
+Go the bus stop in front of NUH. **Don't cross the road**. Take **D2** bus. Alight at _University Town_.

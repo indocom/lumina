@@ -30,4 +30,4 @@ To get there, you can take the NUS internal shuttle bus. For bus lines A1 / D2, 
 
 ### Next steps
 
-One week after your check up, don’t forget to bring your passport and go back to UHC to collect your results                                  
+One week after your check up, don’t forget to bring your passport and go back to UHC to collect your results.

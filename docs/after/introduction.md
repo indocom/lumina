@@ -7,4 +7,4 @@ So, you've done the hard part of getting accepted into the best university in As
 
 #### Congratulations!
 
-This website will try to help smoothen your preparation to study in your dream university. Ready? :fire: 
+This website will try to help smoothen your preparation to study in your dream university. Ready? :fire:

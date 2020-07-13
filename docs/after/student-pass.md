@@ -28,4 +28,3 @@ Time and venue: Given in the appointment letter
 :::note
 Make sure you read the NUS Registration Guide and check your email (incld. NUS email) regularly for more details regarding the student pass issuance process.
 :::
-
