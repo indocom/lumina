@@ -17,8 +17,6 @@ Example: You would ask a colleague “Eh, wanna have lunch?” or call a friend 
 What it means: A suffix used to place emphasis on the sentence or word before.
 Example: “Don’t worry about it lah!” Or, get used to hearing “Out of stock lah.”
 
-  
-
 **Leh and Lor**
 Lah is easy enough to master, but leh and lor? Not so much.
 What it means: Use leh when you’re not sure about something – it’s more like a question.
