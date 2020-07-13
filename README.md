@@ -29,3 +29,4 @@ To deploy,
 1. `git remote add deploy git@github.com:pinus-tech/lumina.git`
 2. `git pull origin master`
 3. `git push deploy master`
+
