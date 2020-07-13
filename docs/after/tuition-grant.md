@@ -3,9 +3,9 @@ id: tg
 title: Tuition Grant
 ---
 
-:warning: This page might not be uptodate. We will update it soon!
-
-Important dates, check [here](https://tgonline.moe.gov.sg/tgis/normal/studentViewGrantCalendar.action)
+:::warning
+The dates are not up to date, and due to the COVID-19 situation some changes are likely. We will update this page once more info are available. Do check MOE's and NUS' websites and regularly check your email, including NUS email.
+:::
 
 
 ### Online Application

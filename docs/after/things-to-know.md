@@ -2,11 +2,11 @@
 id: things-to-know
 title: Things To Know
 ---
-:warning: This page is not uptodate. We will update it soon!
 
 ### Purchasing Laptops, Electronics, Gadgets
 
-The Matric Fair is usually a great place to snag some great bargains for laptops. Great promotions which bundle hardware and software will be available there, mostly for Microsoft Office and Adobe Products. These bundles will also come with the Operating System CD (Windows 10 or Mac OS Sierra).
+
+The Matric Fair is usually a great place to snag some great bargains for laptops. Great promotions which bundle hardware and software will be available there, mostly for Microsoft Office and Adobe Products. These bundles will also come with the Operating System CD.
 
 If you are quite familiar with Singapore, you have probably heard about Funan Digital LifeMall which is one of the more popular electronic vendors. Sadly, the mall is currently closed and is not going to open until 2019. 
 
