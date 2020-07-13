@@ -21,6 +21,7 @@ Once the application has been approved, you will need to pay a **$60 issuance fe
 This completes the initial process of the student pass application. Once you are in Singapore, ICA will arrange an off-site enrolment for the issuance of Student's Pass. You are required to report for off-site enrolment according to the date and time informed to you.
 
 You should bring the necessary documents/items as given in the Registration Guide:
+
 - Recent colour passport-sized photo (4.5 x 3.5 cm)
 - Disembarkation/Embarkation (D/E) Card or copy of electronic Arrival Card or any valid passes (i.e. STP, LTVP, DP, EP)
 - IPA Letter

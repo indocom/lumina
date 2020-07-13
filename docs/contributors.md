@@ -18,9 +18,9 @@ We want to say **THANKS** to our amazing contributors!
 - USP/Cinnamon College: Aldrich
 - Prince George's Park: Aldrich
 
-and to all coordinating PINUS Committee members: 
+to all coordinating PINUS Committee members:
 
-Aldrich, Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila
+Aldrich, Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila, Steven Wijaya
 
 and the 2020 PINUS Orientation Committee members (Liaison Officers Division):
 
