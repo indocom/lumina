@@ -3,14 +3,14 @@ id: financial-aid
 title: Financial Aid
 ---
 :::note
-Some links might be broken. We will update it soon!
+Some dates and links might be out of date. We will update it soon!
 :::
 
 In this section, we will be touching on the 3 loan schemes usually sought after by Indonesian Students. For more detailed info, you can check [here](http://www.nus.edu.sg/oam/financialaid.html).
 
 ### Tuition Fee Loan (TFL) 
 This scheme is facilitated by either OCBC or DBS.
-Applications for International Students close on the 21th of July 2017. For further info, you can check out the following link. The application form also can be downloaded [here](http://www.nus.edu.sg/oam/financialaid/loans/financial-loans-tuitionfee.html). Loan must reapply **every semester**.
+Applications for International Students close on the 21th of July 2017. For further info, you can check out the following link. The application form also can be downloaded [here](http://www.nus.edu.sg/oam/financialaid/loans/financial-loans-tuitionfee.html).
 
 #### Eligibility
 Full fee paying international undergraduates who have used up their MOE Tuition Grant subsidy and have taken up the Tuition Fee Loan before they are charged the full tuition fee rate. (Percentage of coverage is based on the subsidised tuition fee rate portion only).

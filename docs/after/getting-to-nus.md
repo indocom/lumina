@@ -28,6 +28,10 @@ Just tell him to go to NUS Kent Ridge campus. Once there, use the NUS campus map
 ## By MRT
 Alight at Kent Ridge Terminal (CC24, yellow line). You may also want to purchase an Ez-link card since you will be boarding MRTs quite often. If you go to B1 Street Level, you can take NUS bus. 
 
+:::note
+Due to the zoning system implemented in Sem1 AY20/21, the bus routes mentioned below will be replaced by new routes. We will update this page soon!
+:::
+
 ### Prince George Park's (PGP R/H)
 
 Cross the road using the underpass. Make sure you can see NUH building from where you stand (it should be across the road). Take **A2 / D2** bus. Alight at _Prince George's Park Residences_

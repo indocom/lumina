@@ -12,7 +12,7 @@ Please login to the [Registration (Part One) System](https://myregistration.nus.
 The following forms should be downloaded during the Registration (Part One)
 :::
 
-If you are under 18 years of age **at the time of completing Registration (Part One)**, you must prepare the following forms and **have your parent/guardian sign** the forms and bring them to the Registrar’s Office for submission.
+If you are under 18 years of age **at the time of completing Registration (Part One)**, you must print the following forms and **have your parent/guardian sign** them. You should then scan and send them via email to ugregistration@nus.edu.sg.
 
 1. Risk Acknowledgement and Consent – compulsory for all students
 1. Authorisation of Medical Procedures – compulsory for international students only
