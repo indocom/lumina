@@ -21,3 +21,7 @@ We want to say **THANKS** to our amazing contributors!
 and to all coordinating PINUS Committee members: 
 
 Aldrich, Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila
+
+and the 2020 PINUS Orientation Committee members (Liaison Officers Division):
+
+Matheus Aaron, Nathanael S. P., Stanley Jeremy, Filbert Pratama, Francisco Chensan, Jovita Suryawinata, Azza Sekarnova
