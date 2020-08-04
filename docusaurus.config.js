@@ -28,6 +28,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/cca/cca-index',
+          activeBasePath: 'docs/cca',
+          label: 'CCAs and Clubs',
+          position: 'left',
+        },
+        {
           to: 'docs/contributors',
           label: 'Contributors',
           position: 'right',
