@@ -14,7 +14,7 @@ module.exports = {
         src: 'img/logo.png',
       },
       hideOnScroll: true,
-      links: [
+      items: [
         // {
         //   to: 'docs/before/introduction',
         //   activeBasePath: 'docs/before',
