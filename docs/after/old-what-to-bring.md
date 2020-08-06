@@ -77,7 +77,7 @@ title: What to Bring?
       <th scope="row" rowspan="8">Other Documents</th>
       <td>1</td>
       <td>Tuition Grant Agreement</td>
-      <td>If ditandatanganin di Indo, with notaris. More info <a href="tg">here</a>.</td>
+      <td>If ditandatanganin di Indo, with notaris. More info <a href="/docs/after/tg">here</a>.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -161,7 +161,7 @@ title: What to Bring?
       <th scope="row" rowspan="14">Personal Needs</th>
       <td>1</td>
       <td>Laptop</td>
-      <td><a href="faq#laptop">Perlu laptop seperti apa sih spesifikasinya?</a></td>
+      <td><a href="/docs/after/faq#laptop">Perlu laptop seperti apa sih spesifikasinya?</a></td>
     </tr>
     <tr>
       <td>2</td>
