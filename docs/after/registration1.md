@@ -34,4 +34,4 @@ NUSNET ID will be used to access internet on campus, email, logging in to NUS sy
 
 ### Next steps
 1. Students are required to change their default NUSNET password via the [NUS Password Portal](https://exchange.nus.edu.sg/passwordportal/) 
-2. Prepare documents to apply [Student Pass](student-pass.md)
+2. Prepare documents to apply [Student Pass](/docs/after/student-pass)

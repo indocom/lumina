@@ -14,7 +14,7 @@ module.exports = {
         src: 'img/logo.png',
       },
       hideOnScroll: true,
-      links: [
+      items: [
         // {
         //   to: 'docs/before/introduction',
         //   activeBasePath: 'docs/before',
@@ -25,6 +25,12 @@ module.exports = {
           to: 'docs/after/introduction',
           activeBasePath: 'docs/after',
           label: 'After Acceptance',
+          position: 'left',
+        },
+        {
+          to: 'docs/cca/cca-index',
+          activeBasePath: 'docs/cca',
+          label: 'CCAs and Clubs',
           position: 'left',
         },
         {

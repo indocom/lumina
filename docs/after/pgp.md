@@ -66,7 +66,7 @@ You won't feel any difference moving to PGPR.
 
 #### Why stay at PGP Residence?
 
-People usually stay here in their second, third or fourth year after spending either 1 / 2 year in [halls](halls.mdx) / [residential colleges](residential-colleges.md).
+People usually stay here in their second, third or fourth year after spending either 1 / 2 year in [halls](/docs/after/halls) / [residential colleges](/docs/after/residential-colleges).
 
 #### CCA/Interest Groups (IG)
 
