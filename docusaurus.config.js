@@ -1,11 +1,11 @@
 module.exports = {
   title: 'NUS Guide',
   tagline: 'Bring me to NUS',
-  url: 'https://nus-guide.now.sh',
-  baseUrl: '/',
+  url: 'https://benclmnt.github.io',
+  baseUrl: '/lumina/',
   favicon: 'img/logo.png',
-  organizationName: 'indocom', // Usually your GitHub org/user name.
-  projectName: 'study-in-nus', // Usually your repo name.
+  organizationName: 'benclmnt', // Usually your GitHub org/user name.
+  projectName: 'lumina', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'NUSGuide',
@@ -14,17 +14,17 @@ module.exports = {
         src: 'img/logo.png',
       },
       hideOnScroll: true,
-      links: [
-        // {
-        //   to: 'docs/before/introduction',
-        //   activeBasePath: 'docs/before',
-        //   label: 'Before Acceptance',
-        //   position: 'left',
-        // },
+      items: [
+        {
+          to: 'docs/before/introduction',
+          activeBasePath: 'docs/before',
+          label: 'Before Applying',
+          position: 'left',
+        },
         {
           to: 'docs/after/introduction',
           activeBasePath: 'docs/after',
-          label: 'After Acceptance',
+          label: 'After Offer',
           position: 'left',
         },
         {
@@ -97,7 +97,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/benclmnt/study-in-nus/edit/master',
+            'https://github.com/benclmnt/lumina/edit/master',
           showLastUpdateTime: true,
         },
         theme: {

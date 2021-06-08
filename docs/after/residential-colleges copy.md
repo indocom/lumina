@@ -24,6 +24,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Find 
 :::
 
 ### General comparison
+
 <table>
   <thead>
     <tr>
@@ -238,6 +239,7 @@ Know more about [Tembusu culture](https://tembusu.nus.edu.sg/college-life) and [
 - Keen on multi-cultural culture
 
 #### CCA/Interest Groups (IG)
+
 - **Arts**: Tembusu Arts Council (performing arts), tArt (painting),Curios Magazine, Tembusu Debate Society, Filmbusu, Slate (theatrical production), tGuitar, Transposition (instruments playing), Treblemakers (choir), T.C.W. (dance), Ukulele Beats, tWord (poetry and creative writing), Yarn & Doodles (craft)
 - **Sports**: Tembusu Barefoots (frisbee), tBalls (dodgeball), Tembusu Bladers (rollerblading), Bolt & Pace (running), tBoxing, tCali (calisthenics), Captain's Ball, Floorball, Netball, Rock Climbing, Men Soccer, Women Soccer, Tembusu Shuttles (badminton), tSquash, Stretch & Tone (pilates), Table Tennis, Tennis, Tchoukball, Touch Rugby, Volleyball, T-OWLS: Tembusu On Wheels (Lepak & Supper) (night cycling)
 - **Community**: Adestes Fideles (Catholic community), Tembusu Christian Fellowship, T.A.L.L (Tembusu Animal Lovers’ League), Green T Movement (sustainability club), tFreedom (LGBTQIA+ club), Treehouse - Tembusu’s Online Student Journal, etc

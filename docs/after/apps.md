@@ -11,7 +11,7 @@ title: Apps for Survival
 **NUS Related**
 - [nusmods.com](https://nusmods.com/)
 	- Timetable planner. Refer to ModReg section for more info.
-- [LumiNUS] (https://luminus.nus.edu.sg/)
+- [LumiNUS](https://luminus.nus.edu.sg/)
 	- NUS' online platform where profs and lecturers will upload materials and webcasts. 
 - NUSNextBus ([iOS](https://apps.apple.com/sg/app/nus-nextbus/id542131822) , [Android](https://play.google.com/store/apps/details?id=nus.ais.mobile.android.shuttlebus&hl=en_SG))
 	- The NUS internal bus system is not on Google Maps. The app will show routes and bus ETAs (although it’s not always accurate)

@@ -5,7 +5,7 @@ module.exports = {
   // },
   after: {
     'Introduction': ['after/introduction'],
-    'Housing Options':[
+    'Housing Options': [
       'after/housing',
       'after/residential-colleges',
       'after/halls',
@@ -18,7 +18,7 @@ module.exports = {
       'after/student-pass',
       'after/qet',
     ],
-    'What To Prepare??':[
+    'What To Prepare??': [
       'after/registration2',
       'after/document-verification',
       'after/what-to-bring',
@@ -79,11 +79,11 @@ module.exports = {
       'cca/hackers',
       'cca/fintech'
     ],
-    'Social Cause' : [
+    'Social Cause': [
       'cca/aiesec',
       'cca/tzuchi',
     ],
-    'Sports' : [
+    'Sports': [
       'cca/archery',
       'cca/taekwondo',
       'cca/esport',
