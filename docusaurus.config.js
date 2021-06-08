@@ -15,12 +15,12 @@ module.exports = {
       },
       hideOnScroll: true,
       items: [
-        {
-          to: 'docs/before/introduction',
-          activeBasePath: 'docs/before',
-          label: 'Before Applying',
-          position: 'left',
-        },
+        // {
+        //   to: 'docs/before/introduction',
+        //   activeBasePath: 'docs/before',
+        //   label: 'Before Applying',
+        //   position: 'left',
+        // },
         {
           to: 'docs/after/introduction',
           activeBasePath: 'docs/after',
@@ -82,13 +82,19 @@ module.exports = {
             },
             {
               label: 'Github',
-              href: 'https://www.github.com/indocom/study-in-nus',
+              href: 'https://www.github.com/benclmnt/lumina',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Perhimpunan Indonesia NUS. Built with 💚 and Docusaurus.`,
+      copyright: `This mirror is maintained by <a href="https://github.com/benclmnt" target="_blank" rel="noopener noreferrer">Bennett Clement</a>.`,
     },
+    announcementBar: {
+      id: "outdated",
+      content: 'These docs might contain some outdated information from 2020. If you are an NUS freshman, please fill in <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/PINUSFreshman2021">this survey</a>',
+      isCloseable: false,
+      backgroundColor: "#ffba00",
+    }
   },
   presets: [
     [

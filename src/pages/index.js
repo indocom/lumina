@@ -39,7 +39,7 @@ const features = [
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={classnames('col col--4', styles.feature)}>
@@ -56,7 +56,7 @@ function Feature({imageUrl, title, description}) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title="Welcome to NUSGuide"
@@ -64,9 +64,9 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle" style={{paddingTop: ".5em", lineHeight: 1}}>{"Byte-sized, unofficial, insider guide to NUS"}</p>
-          <p style={{fontSize: "1rem", lineHeight: 1}}>{"Delivered to you by Perhimpunan Indonesia NUS"}</p>
-          <div className={styles.buttons} style={{paddingTop: ".8em"}}>
+          <p className="hero__subtitle" style={{ paddingTop: ".5em", lineHeight: 1 }}>{"Byte-sized, unofficial, insider guide to NUS"}</p>
+          <p style={{ fontSize: "1rem", lineHeight: 1 }}>{"Delivered to you by Perhimpunan Indonesia NUS"}</p>
+          <div className={styles.buttons} style={{ paddingTop: ".8em" }}>
             {/* <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
@@ -75,7 +75,7 @@ function Home() {
               to={useBaseUrl('docs/before/introduction')}>
               Get Started
             </Link> */}
-            <div style={{width: 10}}></div>
+            <div style={{ width: 10 }}></div>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',

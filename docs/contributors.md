@@ -3,7 +3,7 @@ id: contributors
 title: Contributors
 ---
 
-We want to say **THANKS** to our amazing contributors!
+We want to say **THANKS** to all our 2020 NUSGuide contributors!
 
 - Eusoff Hall: Dominicus Bimaputra
 - King Edward VII Hall: Kezia Putri
@@ -15,12 +15,12 @@ We want to say **THANKS** to our amazing contributors!
 - RC4 : Kathy Ijaya
 - RVRC : Jessie Ganadhi
 - Tembusu: Iona Tanan
-- USP/Cinnamon College: Aldrich
-- Prince George's Park: Aldrich
+- USP/Cinnamon College: Aldrich Williams
+- Prince George's Park: Aldrich Williams
 
 to all coordinating PINUS Committee members:
 
-Aldrich, Archangel, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila, Steven Wijaya
+Aldrich Williams, Archangel Quinterra, Bennett Clement, Jovita Suryawinata, Jeff Gana, Kathy Ijaya, Nadhira Salsabila, Steven Wijaya
 
 and the 2020 PINUS Orientation Committee members (Liaison Officers Division):
 
