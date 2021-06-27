@@ -1,6 +1,6 @@
 {
-  "name": "study-in-nus",
-  "version": "0.0.0",
+  "name": "lumina",
+  "version": "0.0.2021",
   "private": true,
   "scripts": {
     "start": "docusaurus start",
