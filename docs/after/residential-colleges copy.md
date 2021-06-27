@@ -148,7 +148,7 @@ Residential Colleges are a great way to stay in your first 2 years in NUS. Find 
   </tbody>
 </table> 
 
-## [Cinammon College](http://www.usp.nus.edu.sg/)
+## [Cinammon College](https://www.usp.nus.edu.sg/)
 
 #### Why stay at USP?
 
@@ -166,7 +166,7 @@ NUS University Town (Beside Tembusu College and Education Resource Centre)
 #### Culture / Focus
 Cinnamon’s College purpose is “To shape independent, adaptable thinkers and doers who will make an impact in the world”. With “Curious, Critical, Courageous, Engaged” as the 4 core values of the college, students enrolled in the University Scholars’ Programme in Cinnamon College will be pushed to their intellectual boundaries through the various interdisciplinary modules.
 
-More info on [college life](http://www.usp.nus.edu.sg/life-at-usp/overview/) or [curriculum](http://www.usp.nus.edu.sg/curriculum/overview/)!
+More info on [college life](https://www.usp.nus.edu.sg/life-at-usp/overview/) or [curriculum](https://www.usp.nus.edu.sg/curriculum/overview/)!
 
 #### People / Community
 - 180-190 students/batch accross 7 faculties.
@@ -211,7 +211,7 @@ Every student staying at Cinnamon will be allocated to a house. While other resi
 1. Ursaia
 
 
-## [Tembusu College](http://www.tembusu.nus.edu.sg/)
+## [Tembusu College](https://www.tembusu.nus.edu.sg/)
 
 _Home of Possibilities_
 
@@ -270,7 +270,7 @@ Every student staying at Tembusu will be allocated to a house, which will also d
 1. Ponya (19th-21st floor)
 
 
-## [College of Alice and Peter Tan (CAPT)](http://www.capt.nus.edu.sg/)
+## [College of Alice and Peter Tan (CAPT)](https://www.capt.nus.edu.sg/)
 
 _Active Citizenship and Community Engagement_
 
@@ -328,7 +328,7 @@ Every student staying at CAPT will be allocated to a house, which will also dete
 1. Tulpar (15th-17th floor)
 
 
-## [Residential College 4 (RC4)](http://www.rc4.nus.edu.sg/)
+## [Residential College 4 (RC4)](https://www.rc4.nus.edu.sg/)
 
 _Systems Thinking_
 
@@ -380,7 +380,7 @@ Every student staying at RC4 will be allocated to a house, which will also deter
 1. Draco (15th-17th floor)
 
 
-## [Ridge View Residential College (RVRC)](http://www.rvrc.nus.edu.sg/overview.html)
+## [Ridge View Residential College (RVRC)](https://www.rvrc.nus.edu.sg/overview.html)
 
 #### Why stay at RVRC?
 

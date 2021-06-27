@@ -14,7 +14,7 @@ module.exports = {
     'Before Departure': [
       'after/photo',
       'after/registration1',
-      'after/checkup',
+      'after/medical-exam',
       'after/student-pass',
       'after/qet',
     ],
