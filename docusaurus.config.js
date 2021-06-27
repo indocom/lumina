@@ -94,7 +94,12 @@ module.exports = {
       content: 'These docs might contain some outdated information from 2020. If you are an NUS freshman, please fill in <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/PINUSFreshman2021">this survey</a>',
       isCloseable: false,
       backgroundColor: "#ffba00",
-    }
+    },
+    googleAnalytics: {
+      trackingID: 'G-PDF8GH7GWE',
+      // Optional fields.
+      anonymizeIP: false, // Should IPs be anonymized?
+    },
   },
   presets: [
     [
