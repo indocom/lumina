@@ -2,7 +2,7 @@ module.exports = {
   title: 'NUS Guide',
   tagline: 'Bring me to NUS',
   url: 'https://benclmnt.github.io',
-  baseUrl: '/lumina/',
+  baseUrl: '/lumina/', // need to change settings for local-search as well
   favicon: 'img/logo.png',
   organizationName: 'benclmnt', // Usually your GitHub org/user name.
   projectName: 'lumina', // Usually your repo name.
@@ -112,5 +112,11 @@ module.exports = {
       },
     ],
   ],
-  plugins: ['@docusaurus/plugin-ideal-image'],
+  plugins: [
+    '@docusaurus/plugin-ideal-image',
+    [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      indexBlog: false,
+      docsRouteBasePath: '/lumina/docs'
+    }]
+  ],
 };
