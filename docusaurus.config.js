@@ -95,7 +95,7 @@ module.exports = {
       isCloseable: false,
       backgroundColor: "#ffba00",
     },
-    googleAnalytics: {
+    gtag: {
       trackingID: 'G-PDF8GH7GWE',
       // Optional fields.
       anonymizeIP: false, // Should IPs be anonymized?
