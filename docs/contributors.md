@@ -3,7 +3,9 @@ id: contributors
 title: Contributors
 ---
 
-We want to say **THANKS** to all our 2020 NUSGuide contributors!
+This website is initiated in 2020 by [Bennett Clement](https://github.com/benclmnt) with the generous help of many PINUS contributors. 
+
+We'd specifically want to say **THANKS** to all who has contributed!
 
 - Eusoff Hall: Dominicus Bimaputra
 - King Edward VII Hall: Kezia Putri

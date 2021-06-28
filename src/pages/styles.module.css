@@ -10,6 +10,8 @@
   position: relative;
   overflow: hidden;
   height: 65vh;
+  background: rgb(33,48,106);
+  background: linear-gradient(90deg, rgba(33,48,106,0.8) 0%, rgba(236,77,69,1) 30%, rgba(231,183,70,1) 90%);
 }
 
 @media screen and (max-width: 966px) {
