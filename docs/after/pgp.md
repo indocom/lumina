@@ -25,7 +25,7 @@ title: Prince George's Park
 1. 24-Hr Printing Station
 1. Laundry Room 
 
-## [PGP House](http://nus.edu.sg/osa/pgphouse)
+## [PGP House](https://nus.edu.sg/osa/pgphouse)
 
 #### Why stay at PGP House?
 

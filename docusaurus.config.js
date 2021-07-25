@@ -1,11 +1,11 @@
 module.exports = {
   title: 'NUS Guide',
   tagline: 'Bring me to NUS',
-  url: 'https://nus-guide.now.sh',
-  baseUrl: '/',
+  url: 'https://benclmnt.github.io',
+  baseUrl: '/lumina/',
   favicon: 'img/logo.png',
-  organizationName: 'indocom', // Usually your GitHub org/user name.
-  projectName: 'study-in-nus', // Usually your repo name.
+  organizationName: 'benclmnt', // Usually your GitHub org/user name.
+  projectName: 'lumina', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'NUSGuide',
@@ -14,17 +14,17 @@ module.exports = {
         src: 'img/logo.png',
       },
       hideOnScroll: true,
-      links: [
+      items: [
         // {
         //   to: 'docs/before/introduction',
         //   activeBasePath: 'docs/before',
-        //   label: 'Before Acceptance',
+        //   label: 'Before Applying',
         //   position: 'left',
         // },
         {
           to: 'docs/after/introduction',
           activeBasePath: 'docs/after',
-          label: 'After Acceptance',
+          label: 'After Offer',
           position: 'left',
         },
         {
@@ -82,12 +82,23 @@ module.exports = {
             },
             {
               label: 'Github',
-              href: 'https://www.github.com/indocom/study-in-nus',
+              href: 'https://www.github.com/benclmnt/lumina',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Perhimpunan Indonesia NUS. Built with 💚 and Docusaurus.`,
+      copyright: `This mirror is maintained by <a href="https://github.com/benclmnt" target="_blank" rel="noopener noreferrer">Bennett Clement</a>.`,
+    },
+    announcementBar: {
+      id: "outdated",
+      content: 'These docs might contain some outdated information from 2020. If you are an NUS freshman, please fill in <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/PINUSFreshman2021">this survey</a>',
+      isCloseable: false,
+      backgroundColor: "#ffba00",
+    },
+    gtag: {
+      trackingID: 'G-PDF8GH7GWE',
+      // Optional fields.
+      anonymizeIP: false, // Should IPs be anonymized?
     },
   },
   presets: [
@@ -97,14 +108,25 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/benclmnt/study-in-nus/edit/master',
+            'https://github.com/benclmnt/lumina/edit/master',
           showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: false,
+        }
       },
     ],
   ],
-  plugins: ['@docusaurus/plugin-ideal-image'],
+  plugins: [
+    '@docusaurus/plugin-ideal-image',
+    [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      indexBlog: false,
+      docsRouteBasePath: '/docs'
+    }]
+  ],
 };

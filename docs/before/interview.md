@@ -3,7 +3,7 @@ id: interview
 title: Interview Tips
 ---
 
-Hi, congratulations for making the scholarship interview. You've done the hard part of studying, but don't take this interviews lightly. It looks deceptively easy, but it might be the only thing that differentiate you from other similarly brilliant applicants. I nicknamed it "the million dollar interview". - Maintainer of this website (BC) -
+Hi, congratulations for making the scholarship interview. You've done the hard part of studying, but don't take this interviews lightly. It looks deceptively easy, but it might be the only thing that differentiate you from other similarly brilliant applicants. I nicknamed it "the million dollar interview". - BC - 
 
 ### Talk to seniors
 
