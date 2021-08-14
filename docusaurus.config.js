@@ -2,7 +2,7 @@ module.exports = {
   title: "NUS Guide",
   tagline: "Bring me to NUS",
   url: "https://guide.pinusonline.org",
-  baseUrl: "/lumina/",
+  baseUrl: "/",
   favicon: "img/logo.png",
   organizationName: "PINUS Tech", // Usually your GitHub org/user name.
   projectName: "lumina", // Usually your repo name.
